@@ -1,0 +1,6552 @@
+{
+    "number": "MSAE E1001",
+    "name": "Atomic-scale engineering of new materials",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MSAE E3010",
+    "name": "Introduction to Materials Science, I",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEM C1404, PHYS C1011"
+},
+{
+    "number": "MSAE E3011",
+    "name": "Introduction to Materials Science, II",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MSAE E3010."
+},
+{
+    "number": "MSAE E3012",
+    "name": "Laboratory in Materials Science, I",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MSAE E3010."
+},
+{
+    "number": "MSAE E3013",
+    "name": "Laboratory in Materials Science, II",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MSAE E3011."
+},
+{
+    "number": "MSAE E3103",
+    "name": "Elements of materials science",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEM C1404 and PHYS C1011."
+},
+{
+    "number": "MSAE E3111",
+    "name": "Thermodynamics, kinetic theory and statistical mechanics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MSAE E3104",
+    "name": "Laboratory in materials science",
+    "credits": "3 points",
+    "coreq": "Corequisites: MSAE E3103.",
+    "prereq": ""
+},
+{
+    "number": "MSAE E3141",
+    "name": "Processing of metals and semiconductors",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MSAE E3103 or the equivalent."
+},
+{
+    "number": "MSAE E3142",
+    "name": "Processing of ceramics and polymers",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MSAE E3103 or the equivalent."
+},
+{
+    "number": "MSAE E3156",
+    "name": "Design project",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: senior standing."
+},
+{
+    "number": "MSAE E3900",
+    "name": "Undergraduate research in materials science",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MSAE E3156",
+    "name": "Design project",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: senior standing."
+},
+{
+    "number": "MSAE E4090",
+    "name": "Nanotechnology",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: APPH E3100 and MSAE E3103 or their equivalents with instructor’s permission."
+},
+{
+    "number": "MSAE E4100",
+    "name": "Crystallography",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEM C1403, PHYS C1403, APMA E2101, or equivalent."
+},
+{
+    "number": "MSAE E4101",
+    "name": "Structural analysis of materials",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: or corequisite: MSAE E3103 or the instructor's permission."
+},
+{
+    "number": "MSAE E4132",
+    "name": "Fundamentals of polymers and ceramics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MSAE E3103 or the instructor's permission."
+},
+{
+    "number": "MSAE E4102",
+    "name": "Synthesis and Processing of Materials",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MSAE E3011 or equivalent or instructorâ€™s permission."
+},
+{
+    "number": "MSAE E4200",
+    "name": "Theory of Crystalline Materials",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MSAE E4100 or instructorâ€™s permission."
+},
+{
+    "number": "MSAE E4201",
+    "name": "Materials Thermodynamics and Phase Diagrams",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MSAE E3011 or equivalent or instructor's permission."
+},
+{
+    "number": "MSAE E4202",
+    "name": "Thermodynamics and reactions in solids",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MSAE E4201."
+},
+{
+    "number": "MSAE E4206",
+    "name": "Electronic and magnetic properties of solids",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: PHYS C1401-3 or equivalent."
+},
+{
+    "number": "MSAE E4207",
+    "name": "Lattice vibrations and crystal defects",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MSAE E4215",
+    "name": "Mechanical behavior of structural materials",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MSAE E3103."
+},
+{
+    "number": "MSAE E4250",
+    "name": "Ceramics and composites",
+    "credits": "3 points",
+    "coreq": "Corequisites: Prerequisite or corequisite: MSAE E3142 and MSAE E3104, or the instructor's permission.",
+    "prereq": ""
+},
+{
+    "number": "MSAE E4990",
+    "name": "Special topics in Materials Science and Engineering",
+    "credits": "1-3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Instructor's permission."
+},
+{
+    "number": "MSAE E4999",
+    "name": "Supervised Internship",
+    "credits": "1 point",
+    "coreq": "",
+    "prereq": "Prerequisites: Internship and approval from advisor must be obtained in advance."
+},
+{
+    "number": "MSAE E4301",
+    "name": "Materials science laboratory",
+    "credits": "1-3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Instructor's permission."
+},
+{
+    "number": "MSAE E6020",
+    "name": "Electronic ceramics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MSAE E6081",
+    "name": "Solid state physics, I",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: APPH E3100 or the equivalent. Knowledge of statistical physics on the level of MSAE E3111 or PHYS G4023 strongly recommended."
+},
+{
+    "number": "MSAE E6085",
+    "name": "Computing the Electronic Structure of Complex Materials",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: APPH E3100 or equivalent."
+},
+{
+    "number": "MSAE E6082",
+    "name": "Solid state physics, II",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MSAE E6081x or the instructor's permission."
+},
+{
+    "number": "MSAE E6091",
+    "name": "Magnetism and magnetic materials",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MSAE E4206, APPH E6081, or equivalent."
+},
+{
+    "number": "MSAE E6100",
+    "name": "Transmission Electron Microscopy",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Instructor's permission."
+},
+{
+    "number": "MSAE E6120",
+    "name": "Grain boundaries and interfaces",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Instructor's permission."
+},
+{
+    "number": "MSAE E6221",
+    "name": "Introduction to dislocation theory",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MSAE E4215 or a course in theory of elasticity, or instructor's permission."
+},
+{
+    "number": "MSAE E6220",
+    "name": "Crystal physics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MSAE E4206 or instructor's permission."
+},
+{
+    "number": "MSAE E6225",
+    "name": "Techniques in x-ray and neutron diffraction",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MSAE E4101."
+},
+{
+    "number": "MSAE E6229",
+    "name": "Energy and particle beam processing of materials",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MSAE E4202 or the instructor's permission."
+},
+{
+    "number": "MSAE E6230",
+    "name": "Kinetics of phase transformations",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MSAE E4202 or the instructor's permission."
+},
+{
+    "number": "MSAE E6251",
+    "name": "Thin films and layers",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MSAE E6273",
+    "name": "Materials science reports",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MSAE E8235",
+    "name": "Selected topics in materials science",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MSAE E8236",
+    "name": "Anelastic relaxations in crystals",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Instructor's permission."
+},
+{
+    "number": "MSAE E9259",
+    "name": "Research topics in materials science and metallurgical engineering",
+    "credits": "1 point",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MSAE E9000",
+    "name": "Materials science and engineering colloquium",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MSAE E9301",
+    "name": "Doctoral research",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": "Prerequisites: The qualifying examination for the doctorate."
+},
+{
+    "number": "MSAE E9259",
+    "name": "Research topics in materials science and metallurgical engineering",
+    "credits": "1 point",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MSAE E9800",
+    "name": "Doctoral research instruction",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MSAE E9309",
+    "name": "Proposal of Research for the Doctorate",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MSAE E9900",
+    "name": "Doctoral dissertation",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CHEE E4252",
+    "name": "Introduction to surface and colloid chemistry",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: elementary physical chemistry."
+},
+{
+    "number": "CHEE E6252",
+    "name": "Advanced surface and colloid chemistry",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEE E4252."
+},
+{
+    "number": "CIEE E3250",
+    "name": "Hydrosystems engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEN E3110 or ENME E3161 or equiv, SIEO W3600 or equiv, or instructor's permission"
+},
+{
+    "number": "CHEE E4050",
+    "name": "Industrial and environmental electrochemistry",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEN E3010 or equivalent."
+},
+{
+    "number": "CIEE E3255",
+    "name": "Environmental control and pollution reduction systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: EAEE E3200 or ENME E3161 or MECE E3100"
+},
+{
+    "number": "CIEE E4252",
+    "name": "Environmental engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEM C1403, or the equivalent; ENME E3161 or the equivalent."
+},
+{
+    "number": "CIEE E4250",
+    "name": "Hydrosystems Engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEN E3110 or ENME E3161 or equivalent, SIEO W3600 or equivalent, or the instructor's permission."
+},
+{
+    "number": "CIEE E4257",
+    "name": "Groundwater contaminant transport and remediation",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEE E3250 or the equivalent."
+},
+{
+    "number": "EACE E4560",
+    "name": "Particle technology",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME E3161 and MSAE E3111 or the equivalent"
+},
+{
+    "number": "EAEE E2002",
+    "name": "Alternative energy resources",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE E2100",
+    "name": "A better planet by design",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE E3101",
+    "name": "Earth resource production systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE E3103",
+    "name": "Energy, minerals and materials systems",
+    "credits": "3 points",
+    "coreq": "Corequisites: MSAE E3111 or MECE E3301 and ENME E3161 or MECE E3100 or the equiv",
+    "prereq": "Prerequisites: MSAE E3111 or MECE E3301 and ENME E3161 or MECE E3100 or equiv"
+},
+{
+    "number": "EAEE E3112",
+    "name": "Introduction to rock mechanics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: EAEE E3101 and ENME 3111, or their equivalents."
+},
+{
+    "number": "EAEE E3185",
+    "name": "Summer fieldwork for earth and environmental engineers",
+    "credits": "0",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE E3200",
+    "name": "Applied transport and chemical rate phenomena",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: APMA E2101"
+},
+{
+    "number": "5 po",
+    "name": "nts",
+    "credits": ".",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE E3221",
+    "name": "Environmental geophysics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE E3801",
+    "name": "Earth and environmental engineering laboratory II",
+    "credits": "2 points",
+    "coreq": "Corequisites: EAEE E4003",
+    "prereq": "Prerequisites: EAEE E3800"
+},
+{
+    "number": "EAEE E3800",
+    "name": "Earth and environmental engineering laboratory I",
+    "credits": "2 points",
+    "coreq": "Corequisites: EAEE E3255",
+    "prereq": "Prerequisites: CHEE E3010."
+},
+{
+    "number": "EAEE E3900",
+    "name": "Undergraduate research in Earth and environmental engineering",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE E3901",
+    "name": "Environmental microbiology",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEM C1404 or the equivalent"
+},
+{
+    "number": "EAEE E3998",
+    "name": "Undergraduate design project",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": "Prerequisites: senior standing."
+},
+{
+    "number": "EAEE E3998",
+    "name": "Undergraduate design project",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": "Prerequisites: senior standing."
+},
+{
+    "number": "EAEE E4001",
+    "name": "Industrial ecology of earth resources",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE E4003",
+    "name": "Introduction to aquatic chemistry",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEE E3010"
+},
+{
+    "number": "EAEE E4004",
+    "name": "Physical processing and recovery of solids",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE E4005",
+    "name": "Near-surface engineering geophysics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE E4006",
+    "name": "Field methods for environmental engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME E3161 or the equivalent or instructor's permission"
+},
+{
+    "number": "EAEE E4007",
+    "name": "Environmental geophysics field studies",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE E4009",
+    "name": "Geographic information systems (GIS) for resource, environmental and infrastructure management",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Instructor's permission."
+},
+{
+    "number": "EAEE E4010",
+    "name": "Remote sensing and environmental change",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: EAEE E4009 or EESC W4050 or instructor permission."
+},
+{
+    "number": "EAEE E4011",
+    "name": "Industrial ecology for manufacturing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: EAEE E4001 or instructor's permission."
+},
+{
+    "number": "EAEE E4101",
+    "name": "Introduction to particle technology",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE E4150",
+    "name": "Air pollution prevention and control",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE E4190",
+    "name": "Photovoltaic systems engineering and sustainability",
+    "credits": "3 points",
+    "coreq": "Corequisites: N/A",
+    "prereq": "Prerequisites: Senior standing or instructor's permission"
+},
+{
+    "number": "EAEE E4160",
+    "name": "Solid and hazardous waste management",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE E4200",
+    "name": "Production of inorganic materials",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEE E3010 or equivalent."
+},
+{
+    "number": "EAEE E4210",
+    "name": "Thermal treatment of waste and biomass materials",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEE E3010 or equivalent or instructor's permission."
+},
+{
+    "number": "EAEE E4255",
+    "name": "River and coastal hydrodynamics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEN E3110 or ENME3161 or the equivalent"
+},
+{
+    "number": "EAEE E4241",
+    "name": "Solids handling and transport systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE E4257",
+    "name": "Environmental data analysis and modeling",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: SIEO W3600 or SIEO W4250 or the equivalent."
+},
+{
+    "number": "EAEE E4301",
+    "name": "Carbon storage",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Undergraduate level mathematics and science, or instructor's permission."
+},
+{
+    "number": "EAEE E4300",
+    "name": "Introduction to carbon management",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Undergraduate level mathematics and science, or instructor's permission."
+},
+{
+    "number": "EAEE E4302",
+    "name": "Carbon capture",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Undergraduate level math and science or instructor's permission."
+},
+{
+    "number": "EAEE E4303",
+    "name": "Carbon measurement and monitoring",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Undergraduate level math and science or instructor permission."
+},
+{
+    "number": "EAEE E4350",
+    "name": "Planning and management of urban hydrologic systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME E3161 or the equivalent"
+},
+{
+    "number": "EAEE E4361",
+    "name": "Economics of earth resource industries",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: EAEE E3103 or the instructor's permission."
+},
+{
+    "number": "EAEE E4550",
+    "name": "Catalysis for emissions control",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: One year of general college chemistry."
+},
+{
+    "number": "EAEE E4901",
+    "name": "Environmental microbiology",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE E4950",
+    "name": "Environmental biochemical processes",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: EAEE E4901, E4003, CIEE E4252 or the instructor's approval."
+},
+{
+    "number": "EAEE E4951",
+    "name": "Engineering systems for water treatment and re-use",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEE E4163 and EAEE E3901 or the instructor's permission."
+},
+{
+    "number": "EAEE E4980",
+    "name": "Urban environmental technology and policy",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE E4999",
+    "name": "Fieldwork",
+    "credits": "1 point",
+    "coreq": "",
+    "prereq": "Prerequisites: Instructor's written permission."
+},
+{
+    "number": "EAEE E6132",
+    "name": "Numerical methods in geomechanics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: EAEE E3112 and CIEN E4241 or the instructor's permission."
+},
+{
+    "number": "EAEE E6151",
+    "name": "Applied geophysics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE E6150",
+    "name": "Industrial catalysis",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: EAEE E4550 or the equivalent, or instructor's permission"
+},
+{
+    "number": "EAEE E6200",
+    "name": "Theory and applications of extreme value statistics in engineering and earth sciences",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: STAT W4107 or equivalent background in probability and statistical inference, or instructor's permission."
+},
+{
+    "number": "EAEE E6210",
+    "name": "Quantitative environmental risk analysis",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: EAEE E3101, SIEO W4150, or equivalent."
+},
+{
+    "number": "EAEE E6208",
+    "name": "Combustion chemistry and processes",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: EAEE E4900 or equivalent or instructor's permission"
+},
+{
+    "number": "EAEE E6220",
+    "name": "Remedial and corrective action",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: EAEE E4160 or the equivalent."
+},
+{
+    "number": "EAEE E6212",
+    "name": "Carbon sequestration",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: EAEE E4900 or equivalent or instructor's permission."
+},
+{
+    "number": "EAEE E6240",
+    "name": "Physical hydrology",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Engineering hydrology or the equivalent"
+},
+{
+    "number": "EAEE E6228",
+    "name": "Theory of flotation",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEE E4252 or the instructor's permission."
+},
+{
+    "number": "EAEE E6255",
+    "name": "Methods and applications of analytical decision making in mineral industries",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Instructor's permission."
+},
+{
+    "number": "EAEE E6255",
+    "name": "Methods and applications of analytical decision making in mineral industries",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Instructor's permission."
+},
+{
+    "number": "EAEE E8229",
+    "name": "Selected topics in processing minerals and wastes",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEE E4252 or instructor's permission."
+},
+{
+    "number": "EAEE E8231",
+    "name": "Selected topics in hydro- and electrometallurgy",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: EAEE E4003 and CHEE E4050, or instructor's permission."
+},
+{
+    "number": "EAEE E8233",
+    "name": "Research topics in particle processing",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE E8273",
+    "name": "Mining engineering reports",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE E8273",
+    "name": "Mining engineering reports",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE E9271",
+    "name": "Earth and environmental engineering thesis",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE E9273",
+    "name": "Earth and environmental engineering reports",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE E9273",
+    "name": "Earth and environmental engineering reports",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE E9280",
+    "name": "Earth and environmental engineering colloquium",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE E9281",
+    "name": "Prospects for nuclear energy - earth and environmental engineering seminar",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE E9302",
+    "name": "Mining engineering research",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE E9305",
+    "name": "Earth and environmental engineering research",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE E9800",
+    "name": "Doctoral research instruction",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE E9900",
+    "name": "Doctoral dissertation",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAEE P6329",
+    "name": "Water, Sanitation, and Human Health",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Instructor's permission."
+},
+{
+    "number": "EAIA E4200",
+    "name": "Alternative energy resources",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EAIA W6201",
+    "name": "Complexity Science",
+    "credits": "4 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Graduate standing and instructorâ€™s permission."
+},
+{
+    "number": "EAEE W4304",
+    "name": "Closing the carbon cycle",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Calculus, basic inorganic chemistry and basic physics including thermodynamics or permission of the instructor."
+},
+{
+    "number": "ECIA W4100",
+    "name": "Management and development of water systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "BMEE E4030",
+    "name": "Neural control engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3801"
+},
+{
+    "number": "BMEE E4740",
+    "name": "Bioinstrumentation",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E1201, COMS W1005"
+},
+{
+    "number": "BMCH E4810",
+    "name": "Artificial organs",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "BMEE E6030",
+    "name": "Neural modeling and neuroengineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3801, and either APMA E2101 or E3101, or equivalent, or instructor's permission."
+},
+{
+    "number": "BMEN E2300",
+    "name": "Biomechanics track",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "BMEE E4400",
+    "name": "Wavelet applications in biomedical image and signal processing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: APMA E2101 or E3101 or equivalent."
+},
+{
+    "number": "BMEN E1001",
+    "name": "Engineering in medicine",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "BMEN E2500",
+    "name": "Cellular and tissue engineering track",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "BMEN E3010",
+    "name": "Biomedical Engineering I",
+    "credits": "3 points",
+    "coreq": "Corequisites: BMEN E3810, E4001",
+    "prereq": "Prerequisites: BIOL C2005 and BIOL C2006, or with instructor's permission"
+},
+{
+    "number": "BMEN E3020",
+    "name": "Biomedical Engineering II",
+    "credits": "3 points",
+    "coreq": "Corequisites: BMEN E3820, E4002",
+    "prereq": "Prerequisites: BIOL C2005 and BIOL C2006 or with instructor's permission."
+},
+{
+    "number": "BMEN E3320",
+    "name": "Fluid biomechanics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: APMA E2101"
+},
+{
+    "number": "BMEN E2400",
+    "name": "Biosignals and biomedical imaging track",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "BMEN E3830",
+    "name": "Biomedical engineering laboratory, III",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "BMEN E3910",
+    "name": "Biomedical engineering design, I and II",
+    "credits": "4 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "BMEN E3820",
+    "name": "Biomedical engineering laboratory, II",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "BMEN E3810",
+    "name": "Biomedical engineering laboratory, I",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "BMEN E3910",
+    "name": "Biomedical engineering design, I and II",
+    "credits": "4 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "BMEN E3998",
+    "name": "Projects in biomedical engineering",
+    "credits": "1-3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "BMEN E4001",
+    "name": "Quantitative Physiology, I: Cells and Molecules",
+    "credits": "3 points",
+    "coreq": "Corequisites: BMEN E3010 and E3810",
+    "prereq": "Prerequisites: BIOL C2005 and C2006."
+},
+{
+    "number": "BMEN E4000",
+    "name": "Special Topics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "BMEN E4010",
+    "name": "Ethics for biomedical engineers",
+    "credits": "2 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Senior status in biomedical engineering or the instructor's permission."
+},
+{
+    "number": "BMEN E4104",
+    "name": "Anatomy laboratory: thorax and abdomen",
+    "credits": ". ",
+    "coreq": "Corequisites: (BMEN E4103x.)",
+    "prereq": "Prerequisites: Graduate standing in Biomedical Engineering."
+},
+{
+    "number": "  2 ",
+    "name": "oints",
+    "credits": ".",
+    "coreq": "Corequisites: (BMEN E4103x.)",
+    "prereq": "Prerequisites: Graduate standing in Biomedical Engineering."
+},
+{
+    "number": "BMEN E4002",
+    "name": "Quantitative Physiology, II: Organ Systems",
+    "credits": "3 points",
+    "coreq": "Corequisites: BMEN E3020, E3820.",
+    "prereq": "Prerequisites: BIOL C2005 and C2006."
+},
+{
+    "number": "BMEN E4106",
+    "name": "Anatomy laboratory: extremities",
+    "credits": "2 points",
+    "coreq": "Corequisites: (BMEN E4105x).",
+    "prereq": "Prerequisites: graduate standing in Biomedical Engineering."
+},
+{
+    "number": "BMEN E4105",
+    "name": "Anatomy of the extremities",
+    "credits": "2 points",
+    "coreq": "",
+    "prereq": "Prerequisites: graduate standing in Biomedical Engineering."
+},
+{
+    "number": "BMEN E4103",
+    "name": "Anatomy of the thorax and abdomen",
+    "credits": "2 points",
+    "coreq": "",
+    "prereq": "Prerequisites: graduate standing in Biomedical Engineering."
+},
+{
+    "number": "BMEN E4108",
+    "name": "Anatomy laboratory: head and neck",
+    "credits": "2 points",
+    "coreq": "Corequisites: (BMEN E4107x).",
+    "prereq": "Prerequisites: graduate standing in Biomedical Engineering."
+},
+{
+    "number": "BMEN E4150",
+    "name": "The cell as a machine",
+    "credits": "3 points",
+    "coreq": "Corequisites: One semester of BIOL C2005 or BIOC C3501, and one semester of PHYS C1401 or equivalent",
+    "prereq": "Prerequisites: MATH V1101 or equivalent"
+},
+{
+    "number": "BMEN E4107",
+    "name": "Anatomy of the head and neck",
+    "credits": "2 points",
+    "coreq": "",
+    "prereq": "Prerequisites: graduate standing in Biomedical Engineering."
+},
+{
+    "number": "BMEN E4300",
+    "name": "Solid biomechanics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME-MECE E3105 and ENME E3113"
+},
+{
+    "number": "BMEN E4110",
+    "name": "Biostatistics for engineers",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MATH V1202 and APMA E2101"
+},
+{
+    "number": "BMEN E4210",
+    "name": "Thermodynamics of biological systems",
+    "credits": "4 points",
+    "coreq": "Corequisites: BIOL C2005 or equivalent",
+    "prereq": "Prerequisites: CHEM C1404 and MATH V1202"
+},
+{
+    "number": "BMEN E4305",
+    "name": "Cardiac mechanics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: BMEN E3310 and BMEN E3320 or equivalents."
+},
+{
+    "number": "BMEN E4301",
+    "name": "Structure, mechanics, and adaptation of bone",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "BMEN E4310",
+    "name": "Solid Biomechanics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME E3105 and E3113."
+},
+{
+    "number": "BMEN E4410",
+    "name": "Ultrasound in diagnostic imaging",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MATH V1202 or equivalent,"
+},
+{
+    "number": "BMEN E4320",
+    "name": "Fluid Biomechanics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: APMA E2101, ENME E3105, and MECE E4100."
+},
+{
+    "number": "BMEN E4420",
+    "name": "Biomedical signal processing and signal modeling",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3801 and either APMA E2101 or E3101  or instructor's permission"
+},
+{
+    "number": "BMEN E4450",
+    "name": "Dental and craniofacial tissue engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MSAE E3103, BMEN E4210, BMEN E4501 or equivalent"
+},
+{
+    "number": "BMEN E4340",
+    "name": "Biomechanics of cells",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: BMEN E3320 and BMEN E4300 or equivalents."
+},
+{
+    "number": "BMEN E4430",
+    "name": "Principles of magnetic resonance imaging",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: PHYS C1403 and APAM E2101 or instructors' permission."
+},
+{
+    "number": "BMEN E4500",
+    "name": "Biological transport and rate process",
+    "credits": "3 points",
+    "coreq": "Corequisites: BIOL C2005",
+    "prereq": "Prerequisites: APMA E2101, CHEM C3443"
+},
+{
+    "number": "BMEN E4502",
+    "name": "Tissue engineering, II: biological tissue substitutes",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: BIOL C2005-C2006; BMEN E4001-E4002."
+},
+{
+    "number": "BMEN E4440",
+    "name": "Physiological control systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MEBM E4439 and APMA E2101."
+},
+{
+    "number": "BMEN E4501",
+    "name": "Tissue engineering, I: biomaterials and scaffold design",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: BIOL C2005-C2006; BMEN E4001-E4002."
+},
+{
+    "number": "BMEN E4510",
+    "name": "Tissue Engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: BIOL C2005, C2006, BMEN E4001, E40002."
+},
+{
+    "number": "BMEN E4540",
+    "name": "Bioelectrochemistry",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEM C3079 and CHEM C3443 or equivalent"
+},
+{
+    "number": "BMEN E4560",
+    "name": "Dynamics of biological membranes",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: BIOL C2005, BMEN E4001 or equivalent."
+},
+{
+    "number": "BMEN E4570",
+    "name": "Science and engineering of body fluids",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: General chemistry, organic chemistry, and basic calculus."
+},
+{
+    "number": "BMEN E4590",
+    "name": "BioMems: cellular and molecular applications",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Chemistry CHEM C3443 or CHEN C3545 or equivalent; and MATH V1201, BIOL C2005 and C2006."
+},
+{
+    "number": "BMEN E4601",
+    "name": "Cellular electricity",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "BMEN E4737",
+    "name": "Computer control of medical instrumentation",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Basic knowledge of the C programming language."
+},
+{
+    "number": "BMEN E4550",
+    "name": "Micro- and nano-structures in cellular engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: BIOL C2005 and BIOL C2006 or equivalent"
+},
+{
+    "number": "BMEN E4840",
+    "name": "Functional Imaging for the Brain",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: APMA E2101, APMA E4200, ELEN E3801, or instructor's permission."
+},
+{
+    "number": "BMEN E4738",
+    "name": "Transduction and acquisition of biomedical data",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "BMEN E4750",
+    "name": "Sound and hearing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: PHYS C1401 and MATH V1105 - MATH V1106."
+},
+{
+    "number": "BMEN E4898",
+    "name": "Biophotonics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: BMEN E4894 Biomedical Imaging, PHYS C1403 Classical & Quantum Waves, or instructor's permission."
+},
+{
+    "number": "BMEN E4894",
+    "name": "Biomedical imaging",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "BMEN E6003",
+    "name": "Computational modeling of physiological systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: BMEN E4001 and E4002 or equivalent, and APMA E4200 or equivalent."
+},
+{
+    "number": "BMEN E6000",
+    "name": "Graduate Special Topic",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "BMEN E6005",
+    "name": "Biomedical Design",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Master's students only."
+},
+{
+    "number": "BMEN E6420",
+    "name": "Advanced microscopy: fundamentals and applications",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Physics C1401, C1402, C1403 or C1601, C1602, C2601 or C2801, C2802 or equivalent (general Physics sequence)."
+},
+{
+    "number": "BMEN E6301",
+    "name": "Modeling of biological tissues with finite elements",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MECE E6422, or ENME E6315, or equivalent."
+},
+{
+    "number": "BMEN E6500",
+    "name": "Tissue and molecular engineering laboratory",
+    "credits": "4 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Biology BIOL C2005 and BIOL C2006 or permission of instructor"
+},
+{
+    "number": "BMEN E6505",
+    "name": "Advanced scaffold design and engineering complex",
+    "credits": "3 points",
+    "coreq": "Corequisites: BMEN E4001 or BMEN E4002",
+    "prereq": "Prerequisites: BMEN E4501 or equivalent."
+},
+{
+    "number": "BMEN E8001",
+    "name": "Current Topics in nanobiotechnology and synthetic biology",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "BMEN E9500",
+    "name": "Doctoral research",
+    "credits": "1-6 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "BMEN E6400",
+    "name": "Analysis and quantification of medical images",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "BMEN E9700",
+    "name": "Biomedical engineering seminar",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "BMEN E9800",
+    "name": "Doctoral research instruction",
+    "credits": "3-12 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "BMME E4702",
+    "name": "Advanced musculoskeletal biomechanics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "BMEN E9900",
+    "name": "Doctoral dissertation",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "5 po",
+    "name": "nts",
+    "credits": ".",
+    "coreq": "",
+    "prereq": "Prerequisites: BMEB W4020."
+},
+{
+    "number": "EEBM E6020",
+    "name": "Methods of computational neuroscience",
+    "credits": "4",
+    "coreq": "",
+    "prereq": "Prerequisites: BMEB W4020."
+},
+{
+    "number": "EEBM E6090",
+    "name": "Topics in computational neuroscience and neuroengineering: Brian/Computer Interfaces",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: The instructor's permission."
+},
+{
+    "number": "EEBM E6090",
+    "name": "Topics in computational neuroscience and neuroengineering: Brian/Computer Interfaces",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: The instructor's permission."
+},
+{
+    "number": "BMCH E3500",
+    "name": "Transport in biological systems",
+    "credits": "3 points",
+    "coreq": "Corequisites: BIOL C2005.",
+    "prereq": "Prerequisites: CHEM C3443 and MATH V2030."
+},
+{
+    "number": "CHAP E4120",
+    "name": "Statistical mechanics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEE E3010 or equivalent thermodynamics course, or instructor's permission."
+},
+{
+    "number": "BMEN E9100",
+    "name": "Masters research",
+    "credits": "1-6 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CHEE E3010",
+    "name": "Principles of chemical engineering thermodynamics",
+    "credits": "3 points",
+    "coreq": "Corequisites: CHEN E3020",
+    "prereq": "Prerequisites: CHEM C1403"
+},
+{
+    "number": "CHBM E4321",
+    "name": "The genome and the cell",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: BIOL C2005, MATH V2030."
+},
+{
+    "number": "CHEN E2100",
+    "name": "Introduction to Chemical Engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: First-year chemistry and physics or equivalent."
+},
+{
+    "number": "CHEN E3020",
+    "name": "Analysis of chemical engineering problems, I",
+    "credits": "3 points",
+    "coreq": "Corequisites: CHEE E3010, CHEN E3110.",
+    "prereq": "Prerequisites: vector calculus, ordinary differential equations."
+},
+{
+    "number": "CHEE E4530",
+    "name": "Corrosion of metals",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEE E3010 or equivalent"
+},
+{
+    "number": "CHEE E6220",
+    "name": "Equilibria and kinetics in hydrometallurgical systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Instructor's permission."
+},
+{
+    "number": "CHEN E3810",
+    "name": "Chemical engineering laboratory",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Completion of core chemical engineering curricula through the fall semester of senior year (includes: CHEN E3110, E3120, E4230, E3100, E3010, E3210, E4140, E4500), OR instructor's permission."
+},
+{
+    "number": "CHEN E3110",
+    "name": "Transport phenomena I",
+    "credits": "3 points",
+    "coreq": "Corequisites: CHEN E3020",
+    "prereq": "Prerequisites: mechanics, vector calculus, ordinary differential equations."
+},
+{
+    "number": "CHEN E3210",
+    "name": "Chemical engineering thermodynamics",
+    "credits": "3 points",
+    "coreq": "Corequisites: CHEN E3220.",
+    "prereq": "Prerequisites: CHEE E3010 and CHEN E3100."
+},
+{
+    "number": "CHEN E3120",
+    "name": "Transport phenomena II",
+    "credits": "3 points",
+    "coreq": "Corequisites: CHEN E3220",
+    "prereq": "Prerequisites: CHEN E3110x"
+},
+{
+    "number": "CHEN E4001",
+    "name": "Essentials of chemical engineering -- A",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: First-year chemistry and physics, vector calculus, ordinary differential equations, and the instructor's permission."
+},
+{
+    "number": "CHEN E3900",
+    "name": "Undergraduate research project",
+    "credits": "1-6 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CHEN E4002",
+    "name": "Essentials of chemical engineering -- B",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: First-year chemistry and physics, vector calculus, ordinary differential equations, and the instructor's permission."
+},
+{
+    "number": "CHEN E4110",
+    "name": "Transport phenomena III",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEN E3120."
+},
+{
+    "number": "CHEN E4010",
+    "name": "Mathematical Methods in Chemical Engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEN E3120 and E4230, or equivalent, or instructor's permission."
+},
+{
+    "number": "CHEN E4115",
+    "name": "Topics in Transport Phenomena",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Undergraduate fluid mechanics, or transport phenomena, or instructor's permission."
+},
+{
+    "number": "CHEN E4130",
+    "name": "Advanced Chemical Engineering Thermodynamics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Successful completion of an undergraduate chemical engineering thermodynamics course."
+},
+{
+    "number": "CHEN E4140",
+    "name": "Chemical and Biochemical Separations",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEN E3100, E3120, and E3210, or instructor's permission."
+},
+{
+    "number": "CHEN E4201",
+    "name": "Engineering applications of electrochemistry",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Physical chemistry and a course in transport phenomena."
+},
+{
+    "number": "CHEN E4231",
+    "name": "Solar Fuels",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Graduate standing or CHEN E4230."
+},
+{
+    "number": "CHEN E4230",
+    "name": "Reaction kinetics and reactor design",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEE E3010."
+},
+{
+    "number": "CHEN E4320",
+    "name": "Molecular phenomena in chemical engineering",
+    "credits": "4 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEN E3120 or instructor's permission."
+},
+{
+    "number": "CHEN E4400",
+    "name": "Chemical process development",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEM C3443 or equivalent, or instructorâ€™s permission."
+},
+{
+    "number": "CHEN E4020",
+    "name": "Protection of industrial and intellectual property",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CHEN E4330",
+    "name": "Advanced chemical kinetics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEN E4230 or instructor's permission."
+},
+{
+    "number": "CHEN E4500",
+    "name": "Process and product design I",
+    "credits": "4 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEN E2100, CHEN E4140."
+},
+{
+    "number": "CHEN E4300",
+    "name": "Chemical engineering control",
+    "credits": "2 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Material and energy balances."
+},
+{
+    "number": "CHEN E4410",
+    "name": "Environmental control technology",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEN E3010 or the equivalent."
+},
+{
+    "number": "CHEN E4600",
+    "name": "Atmospheric aerosols",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEN E3120 or instructor's permission."
+},
+{
+    "number": "CHEN E4510",
+    "name": "Process and product design II",
+    "credits": "4 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEN E4500."
+},
+{
+    "number": "CHEN E4540",
+    "name": "Energy and process integration",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEN E4500 or the equivalent."
+},
+{
+    "number": "CHEN E4610",
+    "name": "Chemical product design",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEN E3210 and CHEM C3443 or equivalent, or instructorâ€™s permission."
+},
+{
+    "number": "CHEN E4620",
+    "name": "Introduction to polymers and soft materials",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: An elementary course in physical chemistry or thermodynamics.  Organic chemistry, statistics, calculus and mechanics are helpful, but not essential."
+},
+{
+    "number": "CHEN E4640",
+    "name": "Polymer surfaces and interfaces",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEN E4620 or instructor's permission."
+},
+{
+    "number": "CHEN E4501",
+    "name": "Chemical Engineering Process Safety",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CHEN E4630",
+    "name": "Topics in Soft Materials",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Physical chemistry or instructor's permission."
+},
+{
+    "number": "CHEN E4660",
+    "name": "Biochemical Engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEN E4320 or instructor's permission."
+},
+{
+    "number": "CHEN E4645",
+    "name": "Inorganic polymers, hybrid materials and gels",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Organic chemistry"
+},
+{
+    "number": "CHEN E4680",
+    "name": "Soft materials laboratory",
+    "credits": "3 points",
+    "coreq": "Corequisites: Limited to 15 students.",
+    "prereq": "Prerequisites: Two years of undergraduate science courses and the instructors' permission."
+},
+{
+    "number": "CHEN E4650",
+    "name": "Polymer Physics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEE E3110, CHEN E3120 and E4620."
+},
+{
+    "number": "CHEN E4700",
+    "name": "Principles of genomic technologies",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Undergraduate-level biology, organic chemistry and instructor's permission."
+},
+{
+    "number": "CHEN E4740",
+    "name": "Biological transport and rate phenomena II",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Any two of the following:  CHEN E3110; BIOL C2005; CHEN E3210 or BMCH E3500."
+},
+{
+    "number": "CHEN E4780",
+    "name": "Quantitative methods in cell biology",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Elementary calculus, physics and biology, or instructor's permission."
+},
+{
+    "number": "CHEN E4690",
+    "name": "Managing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEN E4300 or equivalent, or instructor's permission."
+},
+{
+    "number": "CHEN E4760",
+    "name": "Genomics sequencing laboratory",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Undergraduate level biology, organic chemistry and instructor's permission."
+},
+{
+    "number": "CHEN E6050",
+    "name": "Advanced electrochemistry",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Instructor's permission."
+},
+{
+    "number": "CHEN E4800",
+    "name": "Protein engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEN E4230, may be taken concurrently or the instructors permission."
+},
+{
+    "number": "CHEN E6910",
+    "name": "Theoretical methods in polymer physics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHAP 4120 or equivalent statistical mechanics course, or the instructor's permission."
+},
+{
+    "number": "CHEN E6920",
+    "name": "Physics of soft matter",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: The instructor's permission."
+},
+{
+    "number": "CHEN E6620",
+    "name": "Physical chemistry of macromolecules",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CHEN E4620 or the instructor's permission."
+},
+{
+    "number": "CHEN E6630",
+    "name": "Special topics in soft condensed matter",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": " Che",
+    "name": "ical Engineering Colloquium",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CHEN E8100",
+    "name": "Topics in biology",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: The instructor's permission."
+},
+{
+    "number": "CHEN E9001",
+    "name": "M",
+    "credits": ".",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CHEN E9000",
+    "name": "Chemical engineering colloquium",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CHEN E9400",
+    "name": "Master's research",
+    "credits": "1-6 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": " Che",
+    "name": "ical Engineering Colloquium",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CHEN E9500",
+    "name": "Doctoral research",
+    "credits": "1-15 points",
+    "coreq": "",
+    "prereq": "Prerequisites: The qualifying examinations for the doctorate. Open only to certified candidates for the Ph.D. and Eng.Sc.D. degrees."
+},
+{
+    "number": "CHEN E9800",
+    "name": "Doctoral research instruction",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CHEN E9600",
+    "name": "Advanced Research Problems",
+    "credits": "2-10 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Recommendation of the professor concerned and approval of the masterâ€™s research department."
+},
+{
+    "number": "CHEN E8001",
+    "name": "M",
+    "credits": ".",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CHEN E9900",
+    "name": "Doctoral dissertation",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EEME E3601",
+    "name": "Classical control systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MATH V2030."
+},
+{
+    "number": "EEME E4601",
+    "name": "Digital control systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: EEME E3601 or ELEN E3201."
+},
+{
+    "number": "EEME E6601",
+    "name": "Introduction to control theory",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MATH V2030."
+},
+{
+    "number": "EEME E6602",
+    "name": "Modern control theory",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: EEME E6601 or EEME E4601 or ELEN E6201, or the instructor's permission."
+},
+{
+    "number": "EEME E6610",
+    "name": "Optimal control theory",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: EEME E6601 or EEME E4601 or instructor's permission."
+},
+{
+    "number": "EEME E8601",
+    "name": "Advanced topics in control theory",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: EEME E6601 and EEME E4601 or Instructor's permission"
+},
+{
+    "number": "MEBM E4703",
+    "name": "Molecular mechanics in biology",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME E3105,APMA E2101, or the instructor's permission."
+},
+{
+    "number": "MEBM E4439",
+    "name": "Modeling and identification of dynamic systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: APMA E2101, ELEN E3801 or corequsite EEME E3601, or instructor's permission"
+},
+{
+    "number": "MEBM E6310",
+    "name": "Mixture theories for biological tissues, I & II",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MECE E6422 and APMA E4200, or equivalent."
+},
+{
+    "number": "MECE E1001",
+    "name": "Mechanical engineering: micromachines to jumbo jets",
+    "credits": "3 points",
+    "coreq": "Corequisites: MATH V1101 Calculus 1A",
+    "prereq": ""
+},
+{
+    "number": "MEBM E4702",
+    "name": "Advanced musculoskeletal biomechanics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MEBM E6310",
+    "name": "Mixture theories for biological tissues, I & II",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MECE E6422 and APMA E4200, or equivalent."
+},
+{
+    "number": "MECE E3018",
+    "name": "Mechanical engineering laboratory, I",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MECE E1304",
+    "name": "Naval Ship Systems, I",
+    "credits": "1 point",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MECE E1008",
+    "name": "Introduction to Machining",
+    "credits": "1 point",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MECE E3100",
+    "name": "Introduction to mechanics of fluids",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME E3105."
+},
+{
+    "number": "MECE E3038",
+    "name": "Mechanical engineering laboratory, III",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MECE E3105",
+    "name": "Mechanics",
+    "credits": "4 points",
+    "coreq": "",
+    "prereq": "Prerequisites: PHYS C1401 and MATH V1101 - MATH V1102 and MATH V1201."
+},
+{
+    "number": "MECE E3028",
+    "name": "Mechanical engineering laboratory, II",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MECE E3401",
+    "name": "Mechanics of machines",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME E3105 and MECE E3408."
+},
+{
+    "number": "MECE E3301",
+    "name": "Thermodynamics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MECE E3408",
+    "name": "Computer graphics and design",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MECE E3409",
+    "name": "Machine design",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MECE E3408"
+},
+{
+    "number": "MECE E3411",
+    "name": "Fundamentals of engineering",
+    "credits": "1 point",
+    "coreq": "",
+    "prereq": "Prerequisites: Senior Standing."
+},
+{
+    "number": "MECE E3420",
+    "name": "Engineering Design â€“ Concept & Design Generation",
+    "credits": "1 point",
+    "coreq": "Corequisites: MECE E3409.",
+    "prereq": "Prerequisites: Senior standing."
+},
+{
+    "number": "MECE E3430",
+    "name": "Engineering Design",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MECE E3409 Machine Design"
+},
+{
+    "number": "MECE E3610",
+    "name": "Materials and Processes in Manufacturing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME E3113 or equivalent"
+},
+{
+    "number": "MECE E3450",
+    "name": "Computer Aided Design",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME E3105, ENME E3113, MECE E3408, MECE E3409"
+},
+{
+    "number": "MECE E3311",
+    "name": "Heat transfer",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MECE E3900",
+    "name": "Honors tutorial in mechanical engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MECE E4100",
+    "name": "Mechanics of fluids",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MECE E3100 or equivalent."
+},
+{
+    "number": "MECE E3998",
+    "name": "Projects in mechanical engineering",
+    "credits": "1-3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Approval by faculty member who agrees to supervise the work."
+},
+{
+    "number": "MECE E3900",
+    "name": "Honors tutorial in mechanical engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MECE E4058",
+    "name": "Mechatronics and embedded microcomputer control",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E1201."
+},
+{
+    "number": "MECE E4210",
+    "name": "Energy Infrastructure Planning",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: One year each of college level Physics, Chemistry, and Mathematics"
+},
+{
+    "number": "MECE E4213",
+    "name": "Bio-microelectromechanical systems (BioMEMS): design, fabrication and analysis",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MECE E3100 & MECE E3311, a course in transport phenomena, or by instructor's permission"
+},
+{
+    "number": "MECE E4302",
+    "name": "Advanced thermodynamics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MECE E3301."
+},
+{
+    "number": "MECE E4211",
+    "name": "Energy: sources and conversion",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MECE E3301."
+},
+{
+    "number": "MECE E4304",
+    "name": "Turbomachinery",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MECE E4212",
+    "name": "Microelectromechanical systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MECE E4305",
+    "name": "Mechanics and thermodynamics of propulsion",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MECE E3301x Thermodynamics, and MECE E3311y Heat Transfer; MECE E4304x Turbomachinery (or instructor approval)."
+},
+{
+    "number": "MECE E4312",
+    "name": "Solar thermal engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MECE E3311 (Heat Transfer)"
+},
+{
+    "number": "MECE E4306",
+    "name": "Introduction to Aerodynamics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MECE E3100, or ENME E3161, or the equivalent"
+},
+{
+    "number": "MECE E4314",
+    "name": "Energy dynamics of green buildings",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MECE E3301 and MECE E3311."
+},
+{
+    "number": "MECE E4330",
+    "name": "Thermofluid Systems Design",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MECE E3100, E3301, E3311."
+},
+{
+    "number": "MECE E4404",
+    "name": "Tribology: Friction, Lubrication and Wear",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MECE E3100, MECE E3311, ENME E3113 or permission from instructor"
+},
+{
+    "number": "MECE E4400",
+    "name": "Computer laboratory access",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MECE E4430",
+    "name": "Automotive dynamics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME 3105 or equivalent, recommended: ENME 3106 or equivalent"
+},
+{
+    "number": "MECE E4431",
+    "name": "Space vehicle dynamics and control",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME-MECE E3105, ENME E4202 recommended"
+},
+{
+    "number": "MECE E4502",
+    "name": "Computational geometry for CAD/CAM",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W1005 FORTRAN or PASCAL."
+},
+{
+    "number": "MECE E4501",
+    "name": "Geometrical modeling",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W1005."
+},
+{
+    "number": "MECE E4604",
+    "name": "Product design for manufacturability",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Manufacturing process, computer graphics, engineering design, mechanical design."
+},
+{
+    "number": "MECE E4602",
+    "name": "Introduction to robotics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MECE E4606",
+    "name": "Digital Manufacturing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Basic programming experience in any language"
+},
+{
+    "number": "MECE E4610",
+    "name": "Advanced manufacturing processes",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: An introductory course on Manufacturing Processes, and Heat Transfer, knowledge of Engineering materials, or the Instructor's permission."
+},
+{
+    "number": "MECE E4609",
+    "name": "Computer-aided manufacturing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: An introductory course on Manufacturing Processes, and knowledge of Computer Aided Design, and Mechanical Design or the Instructor's permission."
+},
+{
+    "number": "MECE E4990",
+    "name": "Special topics in mechanical engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Permission of the Instructor"
+},
+{
+    "number": "MECE E4999",
+    "name": "Curricular practical training",
+    "credits": "1 point",
+    "coreq": "",
+    "prereq": "Prerequisites: Instructor's written approval."
+},
+{
+    "number": "MECE E6100",
+    "name": "Advanced mechanics of fluids",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MATH V2030 and MECE E3100."
+},
+{
+    "number": "MECE E6102",
+    "name": "Computational heat transfer and fluid flow",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MECE E3100 and MECE E3311; COMS W1005 FORTRAN."
+},
+{
+    "number": "MECE E6103",
+    "name": "Compressible Flow",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: APMA E4200, MECE E3100 and E3301."
+},
+{
+    "number": "MECE E6104",
+    "name": "Case studies in computational fluid dynamics",
+    "credits": "3 points",
+    "coreq": "Corequisites: APAM E4300 and MECE E4400",
+    "prereq": "Prerequisites: APAM E4200 and MECE E6100"
+},
+{
+    "number": "MECE E6200",
+    "name": "Turbulence",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MECE E6100."
+},
+{
+    "number": "MECE E6105",
+    "name": "Transport phenomena in the presence of interfaces",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MECE E3301, Thermodynamics and MECE E3311, Heat Transfer; MECE E4100 Mechanics of Fluids, or the equivalent or the instructor's permission; CHEE E4252, Introduction to Surface and Colloid Chemistry, or the equivalent, or the instructor's permission."
+},
+{
+    "number": "MECE E6313",
+    "name": "Advanced heat transfer",
+    "credits": "3 points",
+    "coreq": "Corequisites: MECE E6100.",
+    "prereq": "Prerequisites: MECE E3311."
+},
+{
+    "number": "MECE E6400",
+    "name": "Advanced machine dynamics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MECE E3401."
+},
+{
+    "number": "MECE E6422",
+    "name": "Introduction to the theory of elasticity, I and II",
+    "credits": "3 points",
+    "coreq": "Corequisites: APMA E4200.",
+    "prereq": ""
+},
+{
+    "number": "MECE E6422",
+    "name": "Introduction to the theory of elasticity, I and II",
+    "credits": "3 points",
+    "coreq": "Corequisites: APMA E4200.",
+    "prereq": ""
+},
+{
+    "number": "MECE E6424",
+    "name": "Vibrations in machines, I",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MECE E3401"
+},
+{
+    "number": "MECE E6614",
+    "name": "Advanced topics in robotics and mechanism synthesis",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Prerequisite: APMA E2101, APMA E3101, MECE E4602 (or COMS W4733)\n\\n\n\\nRecommended: MECE E3401 or Instructor's Permission"
+},
+{
+    "number": "MECE E6620",
+    "name": "Applied signal recognition and classification",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MATH V2030, APMA E3101, knowledge of a programming language, or permission of instructor."
+},
+{
+    "number": "MECE E6700",
+    "name": "Carbon nanotube science and technology",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Knowledge of introductory solid state physics (e.g. PHYS G4018, APPH E6081, or MSAE E3103) or intructor's permission."
+},
+{
+    "number": "MECE E6710",
+    "name": "Nanofabrication laboratory",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E6945 or Instructor's permission."
+},
+{
+    "number": "MECE E6720",
+    "name": "Nano/microscale thermal transport process",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MECE E8020",
+    "name": "Master's thesis",
+    "credits": "1-3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MECE E8020",
+    "name": "Master's thesis",
+    "credits": "1-3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MECE E8100",
+    "name": "Advanced topics in fluid mechanics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MECE E6100."
+},
+{
+    "number": "MECE E8501",
+    "name": "Advanced Continuum Biomechanics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Instructor Permission"
+},
+{
+    "number": "MECE E8990",
+    "name": "Special topics in mechanical engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Instructor's permission."
+},
+{
+    "number": "MECE E9000",
+    "name": "Graduate research and study",
+    "credits": "1-3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MECE E9000",
+    "name": "Graduate research and study",
+    "credits": "1-3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MECE E9500",
+    "name": "Graduate seminar",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MECE E9800",
+    "name": "Doctoral research instruction",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MECE E9900",
+    "name": "Doctoral dissertation",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "MECS E6615",
+    "name": "Robotic Manipulation: Sensing, Planning, Design and Execution",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MECE E4602 or COMS W4733"
+},
+{
+    "number": "MECH E4320",
+    "name": "Introduction to Combustion",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Course in introductory thermodynamics, fluid mechanics, and heat transfer at the undergraduate level or instructor's permission"
+},
+{
+    "number": "MEEM E6432",
+    "name": "Small-Scale Mechanical Behavior",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME E3113 or equivalent; APMA E4200 or equivalent"
+},
+{
+    "number": "MEIE E4810",
+    "name": "Introduction to Human Spaceflight",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Department Permission plus a knowledge of Matlab or equivalent"
+},
+{
+    "number": "CSEE E6863",
+    "name": "Formal verification of hardware and software systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W3134, 3136, or 3137 and COMS W326."
+},
+{
+    "number": "BMEB W4020",
+    "name": "Computational neuroscience: circuits in the brain",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3801 or BIOL W3004."
+},
+{
+    "number": "ECBM E3060",
+    "name": "Introduction to genomic information science and technology",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CSEE E6868",
+    "name": "Embedded scalable platforms",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CSEE W4868 or instructor permission."
+},
+{
+    "number": "ECBM E4090",
+    "name": "Brain computer interfaces (BCI) laboratory",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3801."
+},
+{
+    "number": "ECBM E6040",
+    "name": "Neural networks and deep learning research",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ECBM E4040 or the equivalent."
+},
+{
+    "number": "EEBM E6091",
+    "name": "Topics in computational neuroscience and neuroengineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: The instructor's permission."
+},
+{
+    "number": "ECBM E4040",
+    "name": "Neural networks and deep learning",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: BMEB W4020 or BMEE E4030 or ECBM E4090 or EECS E4750 or COMS W4771 or an equivalent."
+},
+{
+    "number": "EEBM E9070",
+    "name": "Seminar in computational neuroscience and neuroengineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Open to doctoral candidates and qualified M.S. candidates with the instructor's permission."
+},
+{
+    "number": "EECS E4321",
+    "name": "Digital VLSI circuits",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EEBM E6092",
+    "name": "Topics in computational neuroscience and neuroengineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: The instructor's permission."
+},
+{
+    "number": "EECS E4750",
+    "name": "Hybrid computing for signal and data processing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3801 and COMS W3134, or similar courses, recommended."
+},
+{
+    "number": "EECS E4766",
+    "name": "Internet of things - engineering innovations and commercialization",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Basic programming and instructor's permission."
+},
+{
+    "number": "EECS E4764",
+    "name": "Internet of things - intelligent and connected systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Knowledge of programming or instructor's permission.  Suggested preparation: ELEN E4703, CSEE W4119, CSEE W4840, or related courses."
+},
+{
+    "number": "EECS E4951",
+    "name": "Wireless networks and systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CSEE W4119 or the instructor's permission."
+},
+{
+    "number": "EEBM E6099",
+    "name": "Topics in computational neuroscience and neuroengineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: The instructor's permission."
+},
+{
+    "number": "EECS E6321",
+    "name": "Advanced digital electronic circuits",
+    "credits": "4",
+    "coreq": "",
+    "prereq": "Prerequisites: EECS E4321."
+},
+{
+    "number": "EECS E6322",
+    "name": "VLSI hardware architecture for signal processing and machine learning",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CSEE W3827 and ELEN E3801. Recommended: ELEN E4810."
+},
+{
+    "number": "EECS E6720",
+    "name": "Bayesian models for machine learning",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Basic calculus, linear algebra, probability, and programming. Basic statistics and machine learning strongly recommended."
+},
+{
+    "number": "EECS E6765",
+    "name": "Internet of things - systems and physical data analytics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Knowledge of programming; ELEN E4703 or related; or CSEE W4119; or instructor's permission."
+},
+{
+    "number": "EECS E6766",
+    "name": "Internet of things - engineering innovations and commercialization",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Basic programming and instructor's permission."
+},
+{
+    "number": "5 po",
+    "name": "nts",
+    "credits": ".",
+    "coreq": "",
+    "prereq": "Prerequisites: EECS E4321."
+},
+{
+    "number": "EECS E6890",
+    "name": "Topics in information processing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EECS E6870",
+    "name": "Speech recognition",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Basic probability and statistics; basic programming skills."
+},
+{
+    "number": "EECS E6893",
+    "name": "Topics in information processing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EECS E6891",
+    "name": "Topics in information processing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EECS E6894",
+    "name": "Topics in information processing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EECS E6892",
+    "name": "Topics in information processing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EECS E6898",
+    "name": "Topics in information processing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EECS E6896",
+    "name": "Topics in information processing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "EEOR E4650",
+    "name": "Convex optimization for electrical engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3801 or instructor permission."
+},
+{
+    "number": "EEME E6612",
+    "name": "Control of nonlinear dynamic systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: EEME E6601 or ELEN E6201 and an undergraduate controls course."
+},
+{
+    "number": "EEOR E6616",
+    "name": "Convex optimization",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E6613 and EEOR E4650."
+},
+{
+    "number": "EECS E6895",
+    "name": "Topics in information processing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "5 po",
+    "name": "nts",
+    "credits": ".",
+    "coreq": "",
+    "prereq": "Prerequisites: MATH V1101."
+},
+{
+    "number": "ELEN E1201",
+    "name": "Introduction to electrical engineering",
+    "credits": "3",
+    "coreq": "",
+    "prereq": "Prerequisites: MATH V1101."
+},
+{
+    "number": "ELEN E3081",
+    "name": "Circuit analysis laboratory",
+    "credits": "1 point",
+    "coreq": "Corequisites: ELEN E3201.",
+    "prereq": "Prerequisites: ELEN E1201 or equivalent."
+},
+{
+    "number": "ELEN E3082",
+    "name": "Digital systems laboratory",
+    "credits": "1 point",
+    "coreq": "Corequisites: CSEE W3827.",
+    "prereq": ""
+},
+{
+    "number": "ELEN E1101",
+    "name": "The digital information age",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ELEN E3043",
+    "name": "Solid state, microwave and fiber optics laboratory",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3106 and ELEN E3401."
+},
+{
+    "number": "ELEN E3106",
+    "name": "Solid-state devices and materials",
+    "credits": "3",
+    "coreq": "Corequisites: PHYS C1403 or PHYS C2601 or equivalent.",
+    "prereq": "Prerequisites: MATH V1201 or equivalent."
+},
+{
+    "number": "ELEN E3084",
+    "name": "Signals and systems laboratory",
+    "credits": "1 point",
+    "coreq": "Corequisites: ELEN E3801.",
+    "prereq": ""
+},
+{
+    "number": "ELEN E3083",
+    "name": "Electronic circuits laboratory",
+    "credits": "1 point",
+    "coreq": "Corequisites: ELEN E3331.",
+    "prereq": "Prerequisites: ELEN E3081."
+},
+{
+    "number": "5 po",
+    "name": "nts",
+    "credits": ".",
+    "coreq": "Corequisites: MATH V1201.",
+    "prereq": "Prerequisites: ELEN E1201 or equivalent."
+},
+{
+    "number": "ELEN E3201",
+    "name": "Circuit analysis",
+    "credits": "3",
+    "coreq": "Corequisites: MATH V1201.",
+    "prereq": "Prerequisites: ELEN E1201 or equivalent."
+},
+{
+    "number": "5 po",
+    "name": "nts",
+    "credits": ".",
+    "coreq": "Corequisites: PHYS C1403 or PHYS C2601 or equivalent.",
+    "prereq": "Prerequisites: MATH V1201 or equivalent."
+},
+{
+    "number": "ELEN E3390",
+    "name": "Electronic circuit design laboratory",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3082, E3083, E3331, E3401, E3801."
+},
+{
+    "number": "ELEN E3399",
+    "name": "Electrical engineering practice",
+    "credits": "1 point",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ELEN E3331",
+    "name": "Electronic circuits",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3201."
+},
+{
+    "number": "ELEN E3701",
+    "name": "Introduction to communication systems",
+    "credits": "3 points",
+    "coreq": "Corequisites: IEOR E3658.",
+    "prereq": "Prerequisites: ELEN E3801."
+},
+{
+    "number": "5 po",
+    "name": "nts",
+    "credits": ".",
+    "coreq": "Corequisites: MATH V1201.",
+    "prereq": ""
+},
+{
+    "number": "ELEN E3401",
+    "name": "Electromagnetics",
+    "credits": "4 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MATH V1201, PHYS C1402 or PHYS C1602, or equivalents."
+},
+{
+    "number": "ELEN E3998",
+    "name": "Projects in electrical engineering",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Requires approval by a faculty member who agrees to supervise the work."
+},
+{
+    "number": "ELEN E3801",
+    "name": "Signals and systems",
+    "credits": "3",
+    "coreq": "Corequisites: MATH V1201.",
+    "prereq": ""
+},
+{
+    "number": "ELEN E4193",
+    "name": "Modern display science and technology",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Linear algebra, differential equations, and basic semiconductor physics."
+},
+{
+    "number": "ELEN E4301",
+    "name": "Introduction to semiconductor devices",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3106 or equivalent."
+},
+{
+    "number": "ELEN E3999",
+    "name": "Electrical engineering design challenge",
+    "credits": "1 point",
+    "coreq": "",
+    "prereq": "Prerequisites: Approval by a faculty member who agrees to supervise the work."
+},
+{
+    "number": "ELEN E4302",
+    "name": "Magnetic sensors and instruments for medical imaging",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3106, ELEN E3401 or the instructor's permission."
+},
+{
+    "number": "ELEN E4314",
+    "name": "Communication circuits",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E4312."
+},
+{
+    "number": "ELEN E4215",
+    "name": "Analog filter synthesis and design",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3201 and ELEN E3801, or equivalent."
+},
+{
+    "number": "ELEN E4350",
+    "name": "VLSI design laboratory",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E4321 and E4312, or the instructor's permission."
+},
+{
+    "number": "ELEN E4312",
+    "name": "Analog electronic circuits",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3331 and ELEN E3801."
+},
+{
+    "number": "ELEN E4401",
+    "name": "Wave transmission and fiber optics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3401 or equivalent."
+},
+{
+    "number": "ELEN E4488",
+    "name": "Optical systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3401 or equivalent."
+},
+{
+    "number": "ELEN E4411",
+    "name": "Fundamentals of photonics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3401 or equivalent."
+},
+{
+    "number": "ELEN E4420",
+    "name": "Topics in electromagnetics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Undergraduate electromagnetic theory."
+},
+{
+    "number": "ELEN E4361",
+    "name": "Power electronics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ELEN E4501",
+    "name": "Electromagnetic devices and energy conversion",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3401."
+},
+{
+    "number": "ELEN E4503",
+    "name": "Sensors, actuators and electromechanical systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3201 and ELEN E3401, or equivalents."
+},
+{
+    "number": "ELEN E4510",
+    "name": "Solar energy and smart grid power systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Background in circuits."
+},
+{
+    "number": "ELEN E4511",
+    "name": "Power systems analysis and control",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3201 and ELEN E3401, or equivalents, or instructor's permission."
+},
+{
+    "number": "ELEN E4703",
+    "name": "Wireless communications",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3701 or equivalent."
+},
+{
+    "number": "ELEN E4702",
+    "name": "Digital communications",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3701 or equivalent."
+},
+{
+    "number": "ELEN E4750",
+    "name": "Signal processing and communications on mobile multicore processors",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E4702 or ELEN E4810 or instructor's permission."
+},
+{
+    "number": "ELEN E4830",
+    "name": "Digital image processing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ELEN E4810",
+    "name": "Digital signal processing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3801."
+},
+{
+    "number": "ELEN E4835",
+    "name": "Introduction to adaptive signal representations",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Linear algebra (APMA E3101, MATH V2010, or equivalent), probability (IEOR E3658 or equivalent), and signals and systems (ELEN E3801), or instructor's permission."
+},
+{
+    "number": "ELEN E4896",
+    "name": "Music signal processing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3801, ELEN E4810, or the equivalent."
+},
+{
+    "number": "ELEN E4815",
+    "name": "Random signals and noise",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E3658 or equivalent."
+},
+{
+    "number": "ELEN E4900",
+    "name": "Topics in electrical and computer engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: The instructor's permission."
+},
+{
+    "number": "ELEN E4903",
+    "name": "Topics in electrical and computer engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ELEN E4901",
+    "name": "Topics in electrical and computer engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ELEN E4944",
+    "name": "Principles of device microfabrication",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ELEN E4904",
+    "name": "Topics in electrical and computer engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ELEN E6001",
+    "name": "Advanced projects in electrical engineering",
+    "credits": "1-4 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Requires approval by a faculty member who agrees to supervise the work."
+},
+{
+    "number": "ELEN E4998",
+    "name": "Intermediate projects in electrical engineering",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Requires approval by a faculty member who agrees to supervise the work."
+},
+{
+    "number": "ELEN E6010",
+    "name": "Systems biology: design principles for biological circuits",
+    "credits": "4",
+    "coreq": "",
+    "prereq": "Prerequisites: ECBM E4060 or the instructor's permission."
+},
+{
+    "number": "ELEN E6001",
+    "name": "Advanced projects in electrical engineering",
+    "credits": "1-4 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Requires approval by a faculty member who agrees to supervise the work."
+},
+{
+    "number": "5 po",
+    "name": "nts",
+    "credits": ".",
+    "coreq": "",
+    "prereq": "Prerequisites: ECBM E4060 or the instructor's permission."
+},
+{
+    "number": "ELEN E6080",
+    "name": "Topics in systems biology",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: The instructor's permission."
+},
+{
+    "number": "ELEN E6151",
+    "name": "Surface physics and analysis of electronic materials",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: The instructor's permission."
+},
+{
+    "number": "ELEN E6080",
+    "name": "Topics in systems biology",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: The instructor's permission."
+},
+{
+    "number": "ELEN E6201",
+    "name": "Linear system theory",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3801 and APMA E3101, or equivalents."
+},
+{
+    "number": "ELEN E6211",
+    "name": "Circuit theory",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3331 and ELEN E3801."
+},
+{
+    "number": "ELEN E6261",
+    "name": "Computational methods of circuit analysis",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3331 and APMA E3101."
+},
+{
+    "number": "ELEN E4902",
+    "name": "Topics in electrical and computer engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ELEN E6304",
+    "name": "Topics in electronic circuits",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: The instructor's permission."
+},
+{
+    "number": "ELEN E6314",
+    "name": "Advanced communication circuits",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E4314 and ELEN E6312."
+},
+{
+    "number": "ELEN E6316",
+    "name": "Analog systems in VLSI",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E4312."
+},
+{
+    "number": "ELEN E6312",
+    "name": "Advanced analog integrated circuits",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E4312."
+},
+{
+    "number": "ELEN E6318",
+    "name": "Microwave circuit design",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3331 and E3401, or equivalents."
+},
+{
+    "number": "ELEN E6320",
+    "name": "Millimeter-wave IC design",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3401 or equivalent, ELEN E4314, and ELEN E6312."
+},
+{
+    "number": "ELEN E6332",
+    "name": "Principles of semiconductor physics II",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E6331."
+},
+{
+    "number": "ELEN E6302",
+    "name": "MOS transistors",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3106 or equivalent."
+},
+{
+    "number": "ELEN E6331",
+    "name": "Principles of semiconductor physics I",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E4301."
+},
+{
+    "number": "ELEN E6350",
+    "name": "VLSI design laboratory",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E4321 and E4312, or the instructor's permission."
+},
+{
+    "number": "ELEN E6413",
+    "name": "Lightwave systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E4411. Recommended preparation: ELEN E6412."
+},
+{
+    "number": "ELEN E6333",
+    "name": "Semiconductor device physics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E4301 or equivalent."
+},
+{
+    "number": "ELEN E6430",
+    "name": "Applied quantum optics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Background in electromagnetism (ELEN E3401, ELEN E4401, ELEN E4411, or Physics G6092) and quantum mechanics (APPH E3100y, E4100x, or Physics G402x)."
+},
+{
+    "number": "ELEN E6488",
+    "name": "Optical interconnects and interconnection networks",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E4411 or ELEN E4488 or an equivalent photonics course."
+},
+{
+    "number": "ELEN E6412",
+    "name": "Lightwave devices",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E4411."
+},
+{
+    "number": "ELEN E6711",
+    "name": "Stochastic models in information systems",
+    "credits": "4",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E3658."
+},
+{
+    "number": "ELEN E6712",
+    "name": "Communication theory",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E4815, or the equivalent, or the instructor's permission."
+},
+{
+    "number": "ELEN E6713",
+    "name": "Topics in communications",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E6712 or ELEN E4702 or ELEN E4703 or the equivalent, or the instructor's permission."
+},
+{
+    "number": "ELEN E6414",
+    "name": "Photonic integrated circuits",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ELEN E6718",
+    "name": "Algebraic coding theory",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E3658."
+},
+{
+    "number": "ELEN E6717",
+    "name": "Information theory",
+    "credits": "3 points",
+    "coreq": "Corequisites: ELEN E4815.",
+    "prereq": "Prerequisites: IEOR E3658 or a course in stochastic processes."
+},
+{
+    "number": "ELEN E6761",
+    "name": "Computer communication networks I",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E3658 and CSEE W4119 or the equivalent, or the instructor's permission."
+},
+{
+    "number": "ELEN E6770",
+    "name": "Topics in networking",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ELEN E6762",
+    "name": "Computer communication networks II",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E6761."
+},
+{
+    "number": "ELEN E6767",
+    "name": "Internet economics, engineering, and the implications for society",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Recommended preparation: CSEE W4119 or E6761, ability to comprehend and track development of sophisticated models."
+},
+{
+    "number": "ELEN E6777",
+    "name": "Topics in networking",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "5 po",
+    "name": "nts",
+    "credits": ".",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E3658."
+},
+{
+    "number": "ELEN E6776",
+    "name": "Topics in networking",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ELEN E6781",
+    "name": "Topics in modeling and analysis of random phenomena",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E6711."
+},
+{
+    "number": "ELEN E6850",
+    "name": "Visual information systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E4830 or the instructor's permission."
+},
+{
+    "number": "ELEN E6779",
+    "name": "Topics in networking",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "5 po",
+    "name": "nts",
+    "credits": ".",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E4810 or the instructor's permission."
+},
+{
+    "number": "ELEN E6860",
+    "name": "Advanced digital signal processing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E4810. This course is designed as an extension to ELEN E4810, with emphasis on emerging techniques in the area of digital signal processing."
+},
+{
+    "number": "ELEN E6820",
+    "name": "Speech and audio processing and recognition",
+    "credits": "4",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E4810 or the instructor's permission."
+},
+{
+    "number": "ELEN E6880",
+    "name": "Topics in signal processing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E4810."
+},
+{
+    "number": "ELEN E6873",
+    "name": "Detection and estimation theory",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E4815."
+},
+{
+    "number": "ELEN E6884",
+    "name": "Topics in signal processing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E4810."
+},
+{
+    "number": "ELEN E6882",
+    "name": "Topics in signal processing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Prerequisites: ELEN E4810."
+},
+{
+    "number": "ELEN E6885",
+    "name": "Topics in signal processing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E4810."
+},
+{
+    "number": "ELEN E6883",
+    "name": "Topics in signal processing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E4810."
+},
+{
+    "number": "ELEN E6889",
+    "name": "Topics in signal processing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E4810."
+},
+{
+    "number": "ELEN E6881",
+    "name": "Topics in signal processing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E4810."
+},
+{
+    "number": "ELEN E6900",
+    "name": "Topics in electrical and computer engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: The instructor's permission."
+},
+{
+    "number": "ELEN E6886",
+    "name": "Topics in signal processing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E4810."
+},
+{
+    "number": "ELEN E6901",
+    "name": "Topics in electrical and computer engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ELEN E6888",
+    "name": "Topics in signal processing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E4810."
+},
+{
+    "number": "ELEN E6902",
+    "name": "Topics in electrical and computer engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ELEN E6903",
+    "name": "Topics in electrical and computer engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ELEN E6904",
+    "name": "Topics in electrical and computer engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ELEN E6906",
+    "name": "Topics in electrical and computer engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ELEN E6909",
+    "name": "Topics in electrical and computer engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ELEN E6920",
+    "name": "Topics in VLSI systems design",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E4321."
+},
+{
+    "number": "ELEN E6950",
+    "name": "Wireless and mobile networking I",
+    "credits": "4",
+    "coreq": "Corequisites: ELEN E6761 or the instructor's permission.",
+    "prereq": ""
+},
+{
+    "number": "ELEN E6907",
+    "name": "Topics in electrical and computer engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ELEN E6945",
+    "name": "Device nanofabrication",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3106 and E3401, or equivalents.  Recommended: ELEN E4944."
+},
+{
+    "number": "ELEN E6951",
+    "name": "Wireless and mobile networking II",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CSEE W4119 or ELEN E6761 or the instructor's permission."
+},
+{
+    "number": "ELEN E6999",
+    "name": "Fieldwork",
+    "credits": "1-1",
+    "coreq": "",
+    "prereq": "Prerequisites: Obtained internship and approval from a faculty advisor."
+},
+{
+    "number": "ELEN E6908",
+    "name": "Topics in electrical and computer engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "5 po",
+    "name": "nts",
+    "credits": ".",
+    "coreq": "Corequisites: ELEN E6761 or the instructor's permission.",
+    "prereq": ""
+},
+{
+    "number": "ELEN E9001",
+    "name": "Research",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Requires approval by a faculty member who agrees to supervise the work."
+},
+{
+    "number": "ELEN E9011",
+    "name": "Doctoral research",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Requires approval by a faculty member who agrees to supervise the work."
+},
+{
+    "number": "5 po",
+    "name": "nts",
+    "credits": ".",
+    "coreq": "",
+    "prereq": "Prerequisites: Obtained internship and approval from a faculty advisor."
+},
+{
+    "number": "ELEN E9001",
+    "name": "Research",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Requires approval by a faculty member who agrees to supervise the work."
+},
+{
+    "number": "ELEN E9011",
+    "name": "Doctoral research",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Requires approval by a faculty member who agrees to supervise the work."
+},
+{
+    "number": "ELEN E9101",
+    "name": "Seminar in physical electronics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Quantum electronics and ELEN E4944, or the instructor's permission."
+},
+{
+    "number": "ELEN E9201",
+    "name": "Seminar in circuit theory",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ELEN E9301",
+    "name": "Seminar in electronic devices",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ELEN E9303",
+    "name": "Seminar in electronic circuits",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ELEN E9403",
+    "name": "Seminar in photonics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E4411."
+},
+{
+    "number": "ELEN E9060",
+    "name": "Seminar in systems biology",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ELEN E9402",
+    "name": "Seminar in quantum electronics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ELEN E9501",
+    "name": "Seminar in electrical power networks",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Open to doctoral candidates, and to qualified M.S. candidates with the instructor's permission."
+},
+{
+    "number": "ELEN E9800",
+    "name": "Doctoral research instruction",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ELEN E9701",
+    "name": "Seminar in information and communication theories",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ELEN E9404",
+    "name": "Seminar in lightwave communications",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ELEN E9801",
+    "name": "Seminar in signal processing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ELEN E9900",
+    "name": "Doctoral dissertation",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ELEN W6612",
+    "name": "Stochastic control and identification",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E6711 or SIEO W6501, or the equivalent."
+},
+{
+    "number": "APAM E1601",
+    "name": "Introduction to computational mathematics and physics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "APAM E3105",
+    "name": "Programming Methods for Scientists and Engineers",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "APAM E4999",
+    "name": "Supervised internship",
+    "credits": "1-3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Obtained internship and approval from advisor"
+},
+{
+    "number": "APAM E9301",
+    "name": "Doctoral research",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "APAM E4901",
+    "name": "Seminar: Problems in Applied Mathematics",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "APAM E6650",
+    "name": "Research project",
+    "credits": "1-6 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "APAM E9900",
+    "name": "Doctoral dissertation",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "APBM E4650",
+    "name": "Anatomy for physicists and engineers",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Engineering or physics background"
+},
+{
+    "number": "APMA E3101",
+    "name": "Linear Algebra",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "APAM E9800",
+    "name": "Doctoral research instruction",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "APMA E2101",
+    "name": "Introduction to Applied Mathematics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Calculus III."
+},
+{
+    "number": "APMA E3900",
+    "name": "Undergraduate Research in Applied Mathematics",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Written permission from instructor and approval from adviser."
+},
+{
+    "number": "APMA E3102",
+    "name": "Partial Differential Equations",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MATH V2030 or the equivalent"
+},
+{
+    "number": "APMA E4300",
+    "name": "Introduction to Numerical Methods",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MATH V1201, V2030, and APMA E3101 and ENGI E1006 or their equivalents.  Programming experience in Python extremely useful."
+},
+{
+    "number": "APMA E4301",
+    "name": "Numerical Methods for Partial Differential Equations",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: APMA E4300 and APMA E3102 or APMA E4200 or equivalents."
+},
+{
+    "number": "APMA E4302",
+    "name": "Methods in Computational Science",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: APMA E4300, application and knowledge in C, Fortran or similar complied language."
+},
+{
+    "number": "APMA E4990",
+    "name": "Special Topics in Applied Mathematics",
+    "credits": "1-3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Advanced calculus and junior year applied mathematics, or their equivalents."
+},
+{
+    "number": "APMA E6301",
+    "name": "Analytic methods for partial differential equations",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Advanced calculus, basic concepts in analysis, APMA E3101 and E4200 or their equivalents, or instructor's permission."
+},
+{
+    "number": "APMA E6302",
+    "name": "Numerical analysis of partial differential equations",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "APMA E4001",
+    "name": "Principles of Applied Mathematics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "APMA E8308",
+    "name": "Asymptotic methods in applied mathematics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: APMA E4204 or the equivalent."
+},
+{
+    "number": "APMA E6209",
+    "name": "Approximation Theory",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "APMA E6304",
+    "name": "Integral transforms",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: APMA E4204 and MATH V2030, or their equivalents."
+},
+{
+    "number": "APMA E6901",
+    "name": "Special topics in applied mathematics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Advanced calculus and junior year applied mathematics, or their equivalents."
+},
+{
+    "number": "APMA E9101",
+    "name": "Research",
+    "credits": "1-4 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "APMA E9810",
+    "name": "SEAS colloquium in climate science",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Instructor's permission."
+},
+{
+    "number": "APMA E9101",
+    "name": "Research",
+    "credits": "1-4 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "APMA E9815",
+    "name": "Geophysical fluid dynamics seminar",
+    "credits": "1-3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Instructor's permission."
+},
+{
+    "number": "APPH E3300",
+    "name": "Applied electromagnetism",
+    "credits": "3 points",
+    "coreq": "Corequisites: APMA E3102.",
+    "prereq": ""
+},
+{
+    "number": "APPH E3100",
+    "name": "Introduction to quantum mechanics",
+    "credits": "3 points",
+    "coreq": "Corequisites: APMA E3101 or equivalent.",
+    "prereq": "Prerequisites: PHYS C1403 or the equivalent, and differential and integral calculus."
+},
+{
+    "number": "APPH E3200",
+    "name": "Mechanics: fundamentals and applications",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: PHYS C1402, C1402; MATH V2030, or equivalent"
+},
+{
+    "number": "APPH E3900",
+    "name": "Undergraduate research in applied physics",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Written permission from instructor and approval from adviser."
+},
+{
+    "number": "APPH E3400",
+    "name": "Physics of the human body",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "APPH E4008",
+    "name": "Introduction to atmospheric science",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Advanced calculus and general physics, or instructor's permission."
+},
+{
+    "number": "APPH E4090",
+    "name": "Nanotechnology",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: APPH E3100 and MSAE E3103 or their equivalents with instructor's permission."
+},
+{
+    "number": "APPH E4018",
+    "name": "Applied physics laboratory",
+    "credits": "2 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "APPH E4110",
+    "name": "Modern optics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: APPH E3300."
+},
+{
+    "number": "APPH E4010",
+    "name": "Introduction to nuclear science",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MATH V1202 and V2030 and PHYS C1403 or their equivalents."
+},
+{
+    "number": "APPH E4112",
+    "name": "Laser physics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Recommended but not required: APPH E3100 and APPH E3300 or their equivalents."
+},
+{
+    "number": "APPH E4210",
+    "name": "Geophysical fluid dynamics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: APMA E3101, APMA E3102 (or equivalents) and APPH E4200 (or equivalent), or permission from instructor."
+},
+{
+    "number": "APPH E4200",
+    "name": "Physics of fluids",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "APPH E4100",
+    "name": "Quantum physics of matter",
+    "credits": "3 points",
+    "coreq": "Corequisites: APMA E3102 or equivalent.",
+    "prereq": "Prerequisites: APPH E3100."
+},
+{
+    "number": "APPH E4130",
+    "name": "Physics of solar energy",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: General physics (PHYS C1403 or C1602) and mathematics including ordinary differential equations and complex numbers (such as MATH V1202 or V2030) or instructor's permission."
+},
+{
+    "number": "APPH E4301",
+    "name": "Introduction to plasma physics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: PHYS W3008 or APPH E3300."
+},
+{
+    "number": "APPH E4330",
+    "name": "Radiobiology for medical physicists",
+    "credits": "3 points",
+    "coreq": "Corequisites: APPH E4010.",
+    "prereq": "Prerequisites: APPH E4010 or equivalent or"
+},
+{
+    "number": "APPH E4501",
+    "name": "Medical health physics tutorial",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Permission of the course coordinator."
+},
+{
+    "number": "APPH E4300",
+    "name": "Applied electrodynamics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: APPH E3300."
+},
+{
+    "number": "APPH E4500",
+    "name": "Health physics",
+    "credits": "3 points",
+    "coreq": "Corequisites: APPH E4600.",
+    "prereq": "Prerequisites: APPH E4600 or"
+},
+{
+    "number": "APPH E4600",
+    "name": "Fundamentals of radiological physics and radiation dosimetry",
+    "credits": "3 points",
+    "coreq": "Corequisites: APPH E4010.",
+    "prereq": "Prerequisites: APPH E4010 or eqivalent"
+},
+{
+    "number": "APPH E4710",
+    "name": "Radiation instrumentation and measurement laboratory, I and II",
+    "credits": "3 points",
+    "coreq": "Corequisites: APPH E4010",
+    "prereq": "Prerequisites: APPH E4010 or"
+},
+{
+    "number": "APPH E4550",
+    "name": "Medical physics seminar",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "APPH E4710",
+    "name": "Radiation instrumentation and measurement laboratory, I and II",
+    "credits": "3 points",
+    "coreq": "Corequisites: APPH E4010",
+    "prereq": "Prerequisites: APPH E4010 or"
+},
+{
+    "number": "APPH E4901",
+    "name": "Seminar: problems in applied physics",
+    "credits": "1 point",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "APPH E4990",
+    "name": "Special topics in applied physics",
+    "credits": "1-3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Instructor's permission."
+},
+{
+    "number": "APPH E4903",
+    "name": "Seminar: problems in applied physics",
+    "credits": "2 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "APPH E6082",
+    "name": "Solid state physics, II",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "APPH E6085",
+    "name": "Computing the electronic structure of complex materials",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: APPH E3100 or equivalent."
+},
+{
+    "number": "APPH E6091",
+    "name": "Magnetism and magnetic materials",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MSAE E4206, APPH E6081, or equivalent."
+},
+{
+    "number": "APPH E6081",
+    "name": "Solid state physics, I",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: APPH E3100 or the equivalent.  Knowledge of statistical physics on the level of MSAE E3111 or PHYS G4023 strongly recommended."
+},
+{
+    "number": "APPH E6101",
+    "name": "Plasma physics, I",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: APPH E4300."
+},
+{
+    "number": "APPH E6102",
+    "name": "Plasma physics, II",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: APPH E6101x."
+},
+{
+    "number": "APPH E6319",
+    "name": "Clinical nuclear medicine physics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: APPH E4010 or equivalent."
+},
+{
+    "number": "APPH E6335",
+    "name": "Radiation therapy physics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: APPH E4600; APPH E4330, recommended."
+},
+{
+    "number": "APPH E6110",
+    "name": "Laser interactions with matter",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "APPH E6333",
+    "name": "Radiation therapy physics practicum",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Grade of B+ or better in APPH E6335 and instructor's permission."
+},
+{
+    "number": "APPH E6330",
+    "name": "Diagnostic radiology physics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: APPH E4600."
+},
+{
+    "number": "APPH E6340",
+    "name": "Diagnostic radiology practicum",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Grade of B+ or better in APPH E6330 and instructor's permission."
+},
+{
+    "number": "APPH E6380",
+    "name": "Health physics practicum",
+    "credits": "3 points",
+    "coreq": "Corequisites: APPH E4500 and permission of the instructor",
+    "prereq": "Prerequisites: Grade of B+ or better in APPH E4500 and permission of the instructor, or"
+},
+{
+    "number": "APPH E6365",
+    "name": "Nuclear medicine practicum",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Grade of B+ or better in APPH E6319 and instructor's permission."
+},
+{
+    "number": "APPH E6336",
+    "name": "Advanced Topics in Radiation Therapy",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": "Prerequisites: APPH E6335"
+},
+{
+    "number": "APPH E9142",
+    "name": "Applied physics seminar",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "APPH E9142",
+    "name": "Applied physics seminar",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "5 po",
+    "name": "nt",
+    "credits": ".",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "IEME E4310",
+    "name": "The Manufacturing Enterprise",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Refer to course syllabus."
+},
+{
+    "number": "CSOR E4010",
+    "name": "Graph Theory: A Combinatorial View",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Linear Algebra, or instructor's permission."
+},
+{
+    "number": "IEOR E2261",
+    "name": "Introduction to Accounting and Finance",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ECON W1105: Principles of Economics."
+},
+{
+    "number": "IEOR E3402",
+    "name": "Production Inventory Planning and Control",
+    "credits": "4 points",
+    "coreq": "",
+    "prereq": "Prerequisites: SIEO W3600:Introduction to Probability and Statistics and IEOR E3608: Introduction to Mathematical Programming."
+},
+{
+    "number": "IEOR E3608",
+    "name": "Introduction to Mathematical Programming",
+    "credits": "4 points",
+    "coreq": "Corequisites: COMS W3134 (or COMS W3137): Data Structures.",
+    "prereq": "Prerequisites: MATH V2010: Linear Algebra."
+},
+{
+    "number": "CSOR W4561",
+    "name": "Intellectual Property for Entrepreneurs",
+    "credits": "1",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "IEOR E3106",
+    "name": "Introduction to Operations Research: Stochastic Models",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Probability at the level of SIEO W3600 or SIEO W4150 or instructor permission."
+},
+{
+    "number": "IEOR E3900",
+    "name": "Undergraduate Research or Project",
+    "credits": "1-3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: approval by a faculty member who agrees to supervise the work."
+},
+{
+    "number": "IEOR E4000",
+    "name": "Production and Operations Management",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Probability and Statistics at the level of SIEO W3600 or SIEO W4150, and Deterministic Models at the level of IEOR E3608 or IEOR E4004, or instructor permission."
+},
+{
+    "number": "IEOR E3658",
+    "name": "Probability",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Solid knowledge of calculus, including multiple variable integration."
+},
+{
+    "number": "IEOR E4001",
+    "name": "Design and Management of Production and Service Systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E4000: Production Management or IEOR E3402: Production-Inventory Planning and Control."
+},
+{
+    "number": "IEOR E4003",
+    "name": "Industrial Economics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Probability and Statistics at the level of SIEO W3600 or SIEO W4150, and Deterministic Models at the level of IEOR E3608 or IEOR E4004, or instructor permission."
+},
+{
+    "number": "IEOR E4007",
+    "name": "Optimization Models and Methods for Financial Engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Probability and Statistics at the level of SIEO W3600 or SIEO W4150, and a basic course on Linear Algebra at the level of MATH V2010 or APMA E3101."
+},
+{
+    "number": "IEOR E4102",
+    "name": "Stochastic Models for Management Science and Engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Must be registered in the Management Science and Engineering (MSE) MS Program"
+},
+{
+    "number": "IEOR E4101",
+    "name": "Probability Models For Management Science and Engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Must be registered in the Management Science and Engineering (MSE) MS Program"
+},
+{
+    "number": "IEOR E4111",
+    "name": "Operations Consulting",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Probability and Statistics at the level of SIEO W3600 or SIEO W4150, and Deterministic Models at the level of IEOR E3608 or IEOR E4004, or instructor permission."
+},
+{
+    "number": "IEOR E4106",
+    "name": "Introduction to Operations Research: Stochastic Models",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Probability and Statistics at the level of SIEO W3600 or SIEO W4150 or instructor permission."
+},
+{
+    "number": "IEOR E4004",
+    "name": "Introduction to Operations Research: Deterministic Models",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Refer to course syllabus."
+},
+{
+    "number": "IEOR E4205",
+    "name": "Studies in Operations Research",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E3608: Introduction to Mathematical Programming or IEOR E4004: Introduction to Operations Research: Deterministic Models and IEOR E3106 or IEOR E4106: Introduction to Operations Research: Stochastic Models, or instructor permission."
+},
+{
+    "number": "IEOR E4207",
+    "name": "Human Factors: Performance",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Refer to course syllabus."
+},
+{
+    "number": "IEOR E4202",
+    "name": "The Engineering of Management, II",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites:  IEOR E4201 or the instructor's permission"
+},
+{
+    "number": "IEOR E4208",
+    "name": "Seminar in Human Factors Design",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E4207: Human Factors: Performance or the instructor's permission."
+},
+{
+    "number": "IEOR E4220",
+    "name": "Demand And Supply Analytics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E4004 (or IEOR E3608), IEOR E4106 (or IEOR E3608)."
+},
+{
+    "number": "IEOR E4201",
+    "name": "The Engineering of Management, I",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "IEOR E4210",
+    "name": "Supply Chain Management",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR 3402, IEOR 4000 or permission of instructor."
+},
+{
+    "number": "IEOR E4308",
+    "name": "Industrial Budgeting and Financial Control",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENGI W2261 or accounting and finance."
+},
+{
+    "number": "IEOR E4403",
+    "name": "Advanced Engineering and Corporate Economics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Probability and Statistics at the level of SIEO W3600 or SIEO W4150, and Deterministic Models at the level of IEOR E3608 or IEOR E4004, or instructor permission."
+},
+{
+    "number": "IEOR E4404",
+    "name": "Simulation",
+    "credits": "3-4 points",
+    "coreq": "Corequisites: IEOR E3106 or IEOR E4106: Introduction to Operations Research: Stochastic Models.",
+    "prereq": "Prerequisites: SIEO W3600 or SIEO W4150: Introduction to Probability and Statistics, computer programming language such as C, C++, Java or Matlab."
+},
+{
+    "number": "IEOR E4307",
+    "name": "Applied Statistical Models in Operations Research",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR 3658 or its equivalent is required."
+},
+{
+    "number": "IEOR E4405",
+    "name": "Production Scheduling",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: SIEO W3600 or IEOR E4150: Introduction to Probability and Statistics, IEOR E3608: Introduction to Mathematical Programming or IEOR E4004: Introduction to Operations Research: Deterministic Models."
+},
+{
+    "number": "IEOR E4407",
+    "name": "Game Theoretic Models of Operations",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E3608: Introduction to Mathematical Programming or IEOR E4004: Introduction to Operations Research: Deterministic Models, IEOR E3106 or IEOR E4106: Introduction to Operations Research: Stochastic Models, familiarity with differential equations and computer programming; or instructor's permission."
+},
+{
+    "number": "IEOR E4408",
+    "name": "Resource Allocation: Models, Algorithms, and Applications",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Linear Programming, basic knowledge of nonlinear and integer programming at the level of IEOR E3608 or IEOR E4004."
+},
+{
+    "number": "IEOR E4412",
+    "name": "Quality Control and Management",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: SIEO W3600: Introduction to Probability and Statistics or SIEO W4150: Introduction to Probability and Statistics, or permission of instructor."
+},
+{
+    "number": "IEOR E4418",
+    "name": "Logistics and Transportation Management",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR 3608 or IEOR 4404 or permission of instructor."
+},
+{
+    "number": "IEOR E4416",
+    "name": "Capacity Planning: Models, Algorithms and Applications",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR 3608 or IEOR 4004."
+},
+{
+    "number": "IEOR E4500",
+    "name": "Applications Programming for Financial Engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Computer programming or instructor's approval."
+},
+{
+    "number": "IEOR E4520",
+    "name": "Applied Systems Engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: B.S. in Engineering or Applied Sciences; Professional experience recommended; Calculus, Probability and Statistics, Linear Algebra."
+},
+{
+    "number": "IEOR E4505",
+    "name": "Operations Research in Public Policy",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E3608: Introduction to Mathematical Programming or IEOR E4004: Introduction to Operations Research: Deterministic Models, IEOR E3106 or IEOR E4106: Introduction to Operations Research: Stochastic Models."
+},
+{
+    "number": "IEOR E4507",
+    "name": "Operations Management: With Application to Healthcare Management",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: For senior undergraduate Engineering students: SIEO W3600: Introduction to Probability and Statistics and IEOR E3608: Introduction to Mathematical Programming; For Engineering graduate students (MS or PhD): Probability and Statistics at the level of SIEO W4150, and Deterministic Models at the level of IEOR E4004. For Healthcare Management students: P8529: Analytic Methods for Health Services Management."
+},
+{
+    "number": "IEOR E4510",
+    "name": "Project Management",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: SIEO W3600 or IEOR E4150: Introduction to Probability and Statistics, IEOR E3608: Introduction to Mathematical Programming or IEOR E4004: Introduction to Operations Research: Deterministic Models, or instructor's permission."
+},
+{
+    "number": "IEOR E4573",
+    "name": "Topics in Operations Research: Design and Agile Project Management Engineering Lab (DAPME-Lab)",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "IEOR E4550",
+    "name": "Entrepreneurial Business Creation for Engineers",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Principles of Economics and Finance at the level of ECON W1105 and W2261 or their equivalents, or instructor permission."
+},
+{
+    "number": "IEOR E4578",
+    "name": "Professional Development for Management Science & Engineering",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Must be registered in the Management Science and Engineering (MSE) MS Program"
+},
+{
+    "number": "IEOR E4574",
+    "name": "Business Analytics for Operations Research",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "IEOR E4406",
+    "name": "Facilities Location, Routing and Network Design",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E3608 or IEOR E4004"
+},
+{
+    "number": "IEOR E4600",
+    "name": "Applied Integer Programming",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Linear programming, linear algebra, and computer programming."
+},
+{
+    "number": "IEOR E4579",
+    "name": "Professional Development for Industrial Engineering & Operations Research",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "IEOR E4601",
+    "name": "Dynamic Pricing and Revenue Management",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: SIEO W3600 or IEOR E4150: Introduction to Probability and Statistics, IEOR E3608: Introduction to Mathematical Programming or IEOR E4004: Introduction to Operations Research: Deterministic Models."
+},
+{
+    "number": "IEOR E4611",
+    "name": "Decision Models and Applications",
+    "credits": "3 points",
+    "coreq": "Corequisites: IEOR E4404: Simulation or equivalent.",
+    "prereq": "Prerequisites: SIEO W3600 or IEOR E4150: Introduction to Probability and Statistics or equivalent and IEOR E3608: Introduction to Mathematical Programming or IEOR E4004: Introduction to Operations Research: Deterministic Models or equivalent, or instructor permission."
+},
+{
+    "number": "IEOR E4572",
+    "name": "Data Analytics for Operations Research",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "IEOR E4615",
+    "name": "Service Engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Courses in Probability and Statistics at the level of SIEO W3600, and courses in Introduction to Stochastic Processes at the level of IEOR E3106 or IEOR E4106."
+},
+{
+    "number": "IEOR E4602",
+    "name": "Quantitative Risk Management",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E4150: Introduction to Probability and Statistics and IEOR E4106: Introduction to Operations Research: Stochastic Models."
+},
+{
+    "number": "IEOR E4620",
+    "name": "Pricing Models for Financial Engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E4700: Introduction to Financial Engineering, or basic accounting, finance, investment theory, and statistics."
+},
+{
+    "number": "IEOR E4630",
+    "name": "Asset Allocation",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E4700: Introduction to Financial Engineering, Probability and Statistics at the level of SIEO W3600 or SIEO W4150, and a basic course on Deterministic Optimization at the level of IEOR E3608, E4004 or E4007."
+},
+{
+    "number": "IEOR E4701",
+    "name": "Stochastic Models for Financial Engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Probability and Statistics at the level of SIEO 4150, or instructor permission."
+},
+{
+    "number": "5 po",
+    "name": "nt",
+    "credits": ".",
+    "coreq": "Corequisites: IEOR E4701 and IEOR E4706.",
+    "prereq": ""
+},
+{
+    "number": "IEOR E4700",
+    "name": "Introduction to Financial Engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E3106 or IEOR E4106: Introduction to Operations Research: Stochastic Models."
+},
+{
+    "number": "IEOR E4706",
+    "name": "Foundations of Financial Engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E4701: Stochastic Models for Financial Engineering, and linear algebra."
+},
+{
+    "number": "IEOR E4703",
+    "name": "Monte Carlo Simulation",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E4701: Stochastic Models for Financial Engineering, and IEOR E4706: Foundations of Financial Engineering, or instructor permission."
+},
+{
+    "number": "IEOR E4707",
+    "name": "Financial Engineering: Continuous-Time Asset Pricing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E4701: Stochastic Models for Financial Engineering and IEOR E4706: Foundations of Financial Engineering."
+},
+{
+    "number": "IEOR E4709",
+    "name": "Data Analysis for Financial Engineering",
+    "credits": "3 points",
+    "coreq": "Corequisites: IEOR E4706: Foundations of Financial Engineering, and IEOR E4707: Financial Engineering: Continuous Time Models.",
+    "prereq": "Prerequisites: Probability."
+},
+{
+    "number": "IEOR E4710",
+    "name": "Term Structure Models",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E4703: Monte Carlo Simulation Methods, IEOR E4706: Foundations of Financial Engineering, IEOR E4707: Financial Engineering: Continuous Time Models and computer programming."
+},
+{
+    "number": "IEOR E4711",
+    "name": "Global Capital Markets",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Refer to course syllabus."
+},
+{
+    "number": "IEOR E4702",
+    "name": "Statistical Inference for Financial Engineering",
+    "credits": "1",
+    "coreq": "Corequisites: IEOR E4701 and IEOR E4706.",
+    "prereq": ""
+},
+{
+    "number": "IEOR E4714",
+    "name": "Risk Management, Financial System & Financial Crisis",
+    "credits": "1",
+    "coreq": "",
+    "prereq": "Prerequisites: Refer to course syllabus."
+},
+{
+    "number": "IEOR E4708",
+    "name": "Seminar on Important Papers in Financial Engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E4703, E4706, probability and statistics."
+},
+{
+    "number": "IEOR E4715",
+    "name": "Commodity Derivatives",
+    "credits": "1",
+    "coreq": "",
+    "prereq": "Prerequisites: Refer to course syllabus."
+},
+{
+    "number": "IEOR E4712",
+    "name": "Behavioral Finance",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Refer to course syllabus."
+},
+{
+    "number": "IEOR E4718",
+    "name": "Introduction to the Implied Volatility Smile",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E4706: Foundations of Financial Engineering, IEOR E4707: Financial Engineering: Continuous Time Models, and knowledge of derivatives valuation models."
+},
+{
+    "number": "5 po",
+    "name": "nt",
+    "credits": ".",
+    "coreq": "",
+    "prereq": "Prerequisites: Refer to course syllabus."
+},
+{
+    "number": "IEOR E4720",
+    "name": "Professional Development for Financial Engineering",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": "Prerequisites: This course is for MS Program in FE students only."
+},
+{
+    "number": "IEOR E4721",
+    "name": "Mathematics of Finance",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "IEOR E4721",
+    "name": "Mathematics of Finance",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "5 po",
+    "name": "nt",
+    "credits": ".",
+    "coreq": "",
+    "prereq": "Prerequisites: Refer to course syllabus."
+},
+{
+    "number": "IEOR E4722",
+    "name": "Introduction to Algorithmic Trading",
+    "credits": "1",
+    "coreq": "",
+    "prereq": "Prerequisites: Refer to course syllabus."
+},
+{
+    "number": "IEOR E4725",
+    "name": "Topics in Quantitative Finance: Numerical Solutions of Partial Differential Equation",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E4706 and IEOR E4707."
+},
+{
+    "number": "IEOR E4729",
+    "name": "Financial Markets, Risk and Institutions",
+    "credits": "1",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E4701: Stochastic Models for Financial Engineering, and IEOR E4706: Foundations of Financial Engineering."
+},
+{
+    "number": "5 po",
+    "name": "nt",
+    "credits": ".",
+    "coreq": "",
+    "prereq": "Prerequisites: Refer to course syllabus."
+},
+{
+    "number": "5 po",
+    "name": "nt",
+    "credits": ".",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E4701: Stochastic Models for Financial Engineering, and IEOR E4706: Foundations of Financial Engineering."
+},
+{
+    "number": "IEOR E4732",
+    "name": "Computational Methods in Derivatives Pricing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Refer to course syllabus."
+},
+{
+    "number": "IEOR E4727",
+    "name": "Programming for Financial Engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Refer to course syllabus."
+},
+{
+    "number": "IEOR E4731",
+    "name": "Credit Risk Modeling and Credit Derivatives",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Refer to course syllabus."
+},
+{
+    "number": "IEOR E4734",
+    "name": "Foreign Exchange and Its Related Derivative Instruments",
+    "credits": "1",
+    "coreq": "",
+    "prereq": "Prerequisites: Refer to course syllabus."
+},
+{
+    "number": "IEOR E4733",
+    "name": "Algorithmic Trading",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Refer to course syllabus."
+},
+{
+    "number": "IEOR E4735",
+    "name": "Introduction to Structured and Hybrid Products",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Refer to course syllabus."
+},
+{
+    "number": "IEOR E4736",
+    "name": "Experimental Finance",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E4706: Foundations of Financial Engineering, IEOR E4707: Financial Engineering: Continuous Time Models, and students familiar with simple Black-Scholes pricing."
+},
+{
+    "number": "IEOR E4739",
+    "name": "Programming for FE 2: Implementing High Performance Financial Systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E4728 Advanced Programming for Financial Engineering 1"
+},
+{
+    "number": "5 po",
+    "name": "nt",
+    "credits": ".",
+    "coreq": "",
+    "prereq": "Prerequisites: Refer to course syllabus."
+},
+{
+    "number": "IEOR E4738",
+    "name": "Programming for FE 1: Tools for Building Financial Data and Risk Systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Refer to course syllabus."
+},
+{
+    "number": "IEOR E4900",
+    "name": "Master's Research or Project",
+    "credits": "1-3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: approval by a faculty member who agrees to supervise the work."
+},
+{
+    "number": "IEOR E4998",
+    "name": "Managing Technological Innovation and Entrepreneurship",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "IEOR E4999",
+    "name": "Curricular Practical Training",
+    "credits": "0",
+    "coreq": "",
+    "prereq": "Prerequisites: Obtained internship and approval from faculty advisor."
+},
+{
+    "number": "IEOR E6613",
+    "name": "Optimization, I",
+    "credits": "4",
+    "coreq": "",
+    "prereq": "Prerequisites: Refer to course syllabus."
+},
+{
+    "number": "IEOR E6602",
+    "name": "Nonlinear Programming",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: PHD Level Linear Programming."
+},
+{
+    "number": "5 po",
+    "name": "nts",
+    "credits": ".",
+    "coreq": "",
+    "prereq": "Prerequisites: Refer to course syllabus."
+},
+{
+    "number": "5-2 ",
+    "name": "oints",
+    "credits": ".",
+    "coreq": "",
+    "prereq": "Prerequisites: Obtained internship and approval from faculty advisor."
+},
+{
+    "number": "5 po",
+    "name": "nts",
+    "credits": ".",
+    "coreq": "",
+    "prereq": "Prerequisites: Refer to course syllabus."
+},
+{
+    "number": "IEOR E6614",
+    "name": "Optimization, II",
+    "credits": "4",
+    "coreq": "",
+    "prereq": "Prerequisites: Refer to course syllabus."
+},
+{
+    "number": "IEOR E6711",
+    "name": "Stochastic models, I",
+    "credits": "4",
+    "coreq": "",
+    "prereq": "Prerequisites: Refer to course syllabus."
+},
+{
+    "number": "IEOR E6703",
+    "name": "Advanced Financial Engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites:  Probability theory and advanced stochastic models at the SIEO W6501 level."
+},
+{
+    "number": "5 po",
+    "name": "nts",
+    "credits": ".",
+    "coreq": "",
+    "prereq": "Prerequisites: Refer to course syllabus."
+},
+{
+    "number": "IEOR E6712",
+    "name": "Stochastic models, II",
+    "credits": "4",
+    "coreq": "",
+    "prereq": "Prerequisites: Refer to course syllabus."
+},
+{
+    "number": "IEOR E8100",
+    "name": "Advanced Topics In IEOR",
+    "credits": "1-3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: faculty adviser's permission."
+},
+{
+    "number": "IEOR E9800",
+    "name": "Doctoral research instruction",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "IEOR E9101",
+    "name": "Research",
+    "credits": "1-6 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "5 po",
+    "name": "nts",
+    "credits": ".",
+    "coreq": "",
+    "prereq": "Prerequisites: Refer to course syllabus."
+},
+{
+    "number": "SIEO W3001",
+    "name": "Introduction to Probability and Statistics",
+    "credits": "3 points",
+    "coreq": "Corequisites: Refer to course syllabus.",
+    "prereq": "Prerequisites: Calculus."
+},
+{
+    "number": "MSIE W6408",
+    "name": "Inventory Theory",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites:  probability theory, dynamic programming. "
+},
+{
+    "number": "SIEO W3001",
+    "name": "Introduction to Probability and Statistics",
+    "credits": "3 points",
+    "coreq": "Corequisites: Refer to course syllabus.",
+    "prereq": "Prerequisites: Calculus."
+},
+{
+    "number": "SIEO W3602",
+    "name": "Introduction To Statistics",
+    "credits": "2 points",
+    "coreq": "",
+    "prereq": "Prerequisites: SIEO W3658 or the equivalent"
+},
+{
+    "number": "SIEO W3600",
+    "name": "Introduction to Probability and Statistics",
+    "credits": "4 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Calculus, including multiple variable integration."
+},
+{
+    "number": "SIEO W4150",
+    "name": "Introduction to Probability and Statistics",
+    "credits": "3 points",
+    "coreq": "Corequisites: Refer to course syllabus.",
+    "prereq": "Prerequisites: Calculus."
+},
+{
+    "number": "SIEO W4801",
+    "name": "Introduction to Property-Liability Insurance Models",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Calculus-based statistics, such as W4107, W3000, SIEO W3600, SIEO E4105, SIEO E4150."
+},
+{
+    "number": "SIEO W4802",
+    "name": "Introduction to Life Insurance and Aggregate Loss Models",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Calculus-based statistics, such as W4107, W3000, SIEO W3600, SIEO E4105, SIEO E4150."
+},
+{
+    "number": "COMS E6111",
+    "name": "Advanced Database Systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W4111 and knowledge of Java or the instructor's permission."
+},
+{
+    "number": "CBMF W4761",
+    "name": "Computational Genomics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: introductory probability and statistics and basic programming skills."
+},
+{
+    "number": "COMS E6117",
+    "name": "Topics in Programming Languages and Translators",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W4115 or the instructor's permission."
+},
+{
+    "number": "COMS E6113",
+    "name": "Topics in Database Systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W4111."
+},
+{
+    "number": "COMS E6118",
+    "name": "Operating systems, II",
+    "credits": "3 points",
+    "coreq": "Corequisites: COMS W4119.",
+    "prereq": "Prerequisites: COMS W4118."
+},
+{
+    "number": "COMS E6121",
+    "name": "Reliable Software",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: at least one of COMS W4118 Operating Systems I, COMS W4115 Programming Languages and Translators, or COMS W4117 Compilers and Interpreters; or significant software development experiences."
+},
+{
+    "number": "COMS E6125",
+    "name": "Web-enhanced Information Management (WHIM)",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: at least one COMS W41xx or COMS E61xx course and/or COMS W4444, or the instructor's permission. Strongly recommended: COMS W4111."
+},
+{
+    "number": "COMS E6123",
+    "name": "Programming Environments and Software Tools (PEST)",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W4156, or equivalent."
+},
+{
+    "number": "COMS E6156",
+    "name": "Topics in Software Engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "COMS E6160",
+    "name": "Topics in Computer Graphics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W4160 or the instructor's permission."
+},
+{
+    "number": "COMS E6181",
+    "name": "Advanced Internet Services",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "COMS E6174",
+    "name": "Interaction Design: A Perceptual Approach",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W4170 or the instructor's permission."
+},
+{
+    "number": "COMS E6183",
+    "name": "Advanced Topics in Network Security",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W4180, CSEE 4119, and COMS W4261 recommended."
+},
+{
+    "number": "COMS E6176",
+    "name": "User Interfaces for Mobile and Wearable Computing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W4170 or the instructor's permission."
+},
+{
+    "number": "COMS E6184",
+    "name": "Seminar on Anonymity and Privacy",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W4261 or COMS W4180 or CSEE W4119, or the instructor's permission."
+},
+{
+    "number": "COMS E6185",
+    "name": "Intrusion and Anomaly Detection Systems",
+    "credits": "2 points",
+    "coreq": "Corequisites: COMS W4180 Network Security.",
+    "prereq": "Prerequisites: COMS W4180 Network Security."
+},
+{
+    "number": "COMS E6232",
+    "name": "Analysis of Algorithms, II",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CSOR W4231."
+},
+{
+    "number": "COMS E6204",
+    "name": "Topics in Graph Theory",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W4203 or the instructor's permission."
+},
+{
+    "number": "COMS E6206",
+    "name": "Topics in Combinatorial Theory",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W4203 or COMS W4205, or the instructor's permission."
+},
+{
+    "number": "COMS E6253",
+    "name": "Advanced Topics in Computational Learning Theory",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CSOR W4231 or equivalent, COMS W4252 or COMS W4236 helpful but not required."
+},
+{
+    "number": "COMS E6291",
+    "name": "Theoretical Topics in Computer Science",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: the instructor's permission."
+},
+{
+    "number": "COMS E6731",
+    "name": "Humanoid Robots",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: A Course in at least One of the following: AI, Robotics, Computer Graphics, or Computer Vision"
+},
+{
+    "number": "COMS E6261",
+    "name": "Advanced Cryptography",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W4261."
+},
+{
+    "number": "COMS E6732",
+    "name": "Computational Imaging",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W4731 or the instructor's permission."
+},
+{
+    "number": "COMS E6733",
+    "name": "3 -D photography",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: experience with at least one of the following topics: Computer Graphics, Computer Vision, Pixel Processing, Robotics or Computer Aided Design, or the instructor's permission. Programming proficiency in C, C++ or JAVA."
+},
+{
+    "number": "COMS E6735",
+    "name": "Visual Databases",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W3134 or COMS W3137 required. COMS W4731 and COMS W4735 helpful but not required. Contact instructor if uncertain."
+},
+{
+    "number": "COMS E6737",
+    "name": "Biometrics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: a background at the sophomore level in computer science, engineering, or like discipline."
+},
+{
+    "number": "COMS E6901",
+    "name": "Projects in Computer Science",
+    "credits": "1-12 points",
+    "coreq": "",
+    "prereq": "Prerequisites: the instructor's permission."
+},
+{
+    "number": "COMS E6900",
+    "name": "Tutorial in Computer Science",
+    "credits": "1-3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: the instructor's permission."
+},
+{
+    "number": "COMS E6734",
+    "name": "Computational Photography",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W4160, COMS W4731, or a working knowledge of photography are recommended."
+},
+{
+    "number": "COMS E6915",
+    "name": "Writing for Computer Scientists and Engineers",
+    "credits": "1 point",
+    "coreq": "",
+    "prereq": "Prerequisites: For M.S. and Ph.D candidates in CS/CE."
+},
+{
+    "number": "COMS E6998",
+    "name": "Topics in Computer Science",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Instructor's permission."
+},
+{
+    "number": "COMS E6902",
+    "name": "Thesis",
+    "credits": "1-9 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "COMS E9800",
+    "name": "Directed Research in Computer Science",
+    "credits": "1-15 points",
+    "coreq": "",
+    "prereq": "Prerequisites: submission of an outline of the proposed research for approval by the faculty member who will supervise."
+},
+{
+    "number": "COMS E9911",
+    "name": "Graduate research II",
+    "credits": "1-15 points",
+    "coreq": "",
+    "prereq": "Prerequisites: submission of an outline of the proposed research for approval by the faculty member who will supervise."
+},
+{
+    "number": "COMS W1001",
+    "name": "Introduction to Information Science",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "COMS E9910",
+    "name": "Graduate Research I",
+    "credits": "1-6 points",
+    "coreq": "",
+    "prereq": "Prerequisites: submission of an outline of the proposed research for approval by the faculty member who will supervise."
+},
+{
+    "number": "COMS W1002",
+    "name": "Computing in Context",
+    "credits": "4 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "COMS E6999",
+    "name": "Topics in Computer Science, II",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS E6998."
+},
+{
+    "number": "COMS W1005",
+    "name": "Introduction to Computer Science and Programming in MATLAB",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "COMS W1007",
+    "name": "Honors Introduction to Computer Science",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: AP Computer Science with a grade of 4 or 5 or similar experience."
+},
+{
+    "number": "COMS W1404",
+    "name": "Emerging Scholars Program Seminar",
+    "credits": "1 point",
+    "coreq": "Corequisites: COMS W1004/COMS W1007 or ENGI E1006.",
+    "prereq": "Prerequisites: the instructor's permission."
+},
+{
+    "number": "COMS W3101",
+    "name": "Programming Languages",
+    "credits": "1 point",
+    "coreq": "",
+    "prereq": "Prerequisites: fluency in at least one programming language."
+},
+{
+    "number": "COMS W3102",
+    "name": "Development Technologies",
+    "credits": "1-2 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Fluency in at least one programming language"
+},
+{
+    "number": "COMS W3137",
+    "name": "Honors Data Structures and Algorithms",
+    "credits": "4 points",
+    "coreq": "Corequisites: COMS W3203.",
+    "prereq": "Prerequisites: COMS W1004 or W1007."
+},
+{
+    "number": "COMS W3134",
+    "name": "Data Structures in Java",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W1004 or knowledge of Java."
+},
+{
+    "number": "COMS W3157",
+    "name": "Advanced Programming",
+    "credits": "4 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "COMS W3136",
+    "name": "Data Structures with C/C++",
+    "credits": "4 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W1004, W1005, W1007, or ENGI E1006."
+},
+{
+    "number": "COMS W1004",
+    "name": "Introduction to Computer Science and Programming in Java",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "COMS W3210",
+    "name": "Scientific Computation",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: two terms of calculus."
+},
+{
+    "number": "COMS W3261",
+    "name": "Computer Science Theory",
+    "credits": "3 points",
+    "coreq": "Corequisites: COMS W3134, W3136, or W3137.",
+    "prereq": "Prerequisites: COMS W3203."
+},
+{
+    "number": "COMS W3203",
+    "name": "Discrete Mathematics: Introduction to Combinatorics and Graph Theory",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: any introductory course in computer programming."
+},
+{
+    "number": "COMS W3251",
+    "name": "Computational Linear Algebra",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: two terms of calculus."
+},
+{
+    "number": "COMS W3902",
+    "name": "Undergraduate Thesis",
+    "credits": "1-6 points",
+    "coreq": "",
+    "prereq": "Prerequisites: agreement by a faculty member to serve as thesis adviser."
+},
+{
+    "number": "COMS W4111",
+    "name": "Introduction to Databases",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W3134, W3136, or W3137, fluency in Java; or the instructor's permission."
+},
+{
+    "number": "COMS W3995",
+    "name": "Special Topics in Computer Science",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: the instructor's permission."
+},
+{
+    "number": "COMS W4112",
+    "name": "Database System Implementation",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W4111; fluency in Java or C++. CSEE W3827 is recommended."
+},
+{
+    "number": "COMS W3410",
+    "name": "Computers and Society",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "COMS W4115",
+    "name": "Programming Languages and Translators",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W3134, W3136, or W3137 (or equivalent), W3261, and CSEE W3827, or the instructor's permission."
+},
+{
+    "number": "COMS W4113",
+    "name": "Fundamentals of Large-Scale Distributed Systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W3134, W3136, or W3137. COMS W3157 or good working knowledge of C and C++. COMS W4118 or CSEE W4119."
+},
+{
+    "number": "COMS W3998",
+    "name": "Undergraduate Projects in Computer Science",
+    "credits": "1-3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: approval by a faculty member who agrees to supervise the work."
+},
+{
+    "number": "COMS W4121",
+    "name": "Computer Systems for Data Science",
+    "credits": "3 points",
+    "coreq": "Corequisites: CSOR 4246 (Algorithms for Data Science), STATS W4105 (Probability), or equivalent as approved by faculty advisor.",
+    "prereq": "Prerequisites: background in Computer System Organization and good working knowledge of C/C++"
+},
+{
+    "number": "COMS W4130",
+    "name": "Principles and Practice of Parallel Programming",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: experience in Java, basic understanding of analysis of algorithms. COMS W3134, W3136, or W3137 (or equivalent)."
+},
+{
+    "number": "COMS W4117",
+    "name": "Compilers and Interpreters",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W4115 or the instructor's permission."
+},
+{
+    "number": "COMS W4160",
+    "name": "Computer Graphics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W3134, W3136, or W3137; W4156 is recommended. Strong programming background and some mathematical familiarity including linear algebra is required."
+},
+{
+    "number": "COMS W4118",
+    "name": "Operating Systems I",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CSEE W3827 and knowledge of C and programming tools as covered in W3136, W3157, or W3101, or the instructor's permission."
+},
+{
+    "number": "COMS W4167",
+    "name": "Computer Animation",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: multivariable calculus, linear algebra, C++ programming proficiency. COMS W4156 recommended."
+},
+{
+    "number": "COMS W4156",
+    "name": "Advanced Software Engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "COMS W4162",
+    "name": "Advanced Computer Graphics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W4160 or equivalent, or the instructor's permission."
+},
+{
+    "number": "COMS W4180",
+    "name": "Network Security",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W3134, W3136, or W3137 and W4119, or the instructor's permission."
+},
+{
+    "number": "COMS W4172",
+    "name": "3D User Interfaces and Augmented Reality",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W4160, COMS W4170, or the instructor's permission."
+},
+{
+    "number": "COMS W4203",
+    "name": "Graph Theory",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W3203."
+},
+{
+    "number": "COMS W4187",
+    "name": "Security Architecture and Engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W4118; W4180 and/or W4119 recommended."
+},
+{
+    "number": "COMS W4241",
+    "name": "Numerical Algorithms and Complexity",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: knowledge of a programming language. Some knowledge of scientific computation is desirable."
+},
+{
+    "number": "COMS W4252",
+    "name": "Introduction to Computational Learning Theory",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CSOR W4231 or COMS W4236 or COMS W3203 and the instructor's permission, or COMS W3261 and the instructor's permission."
+},
+{
+    "number": "COMS W4236",
+    "name": "Introduction to Computational Complexity",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W3261."
+},
+{
+    "number": "COMS W4281",
+    "name": "Introduction to Quantum Computing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: knowledge of linear algebra. Prior knowledge of quantum mechanics is not required, although it is helpful."
+},
+{
+    "number": "COMS W4444",
+    "name": "Programming and Problem Solving",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W3134, W3136, or W3137 and CSEE W3827."
+},
+{
+    "number": "COMS W4460",
+    "name": "Principles of Innovation and Entrepreneurship",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W3134, W3136, or W3137 (or equivalent), or the instructor's permission."
+},
+{
+    "number": "COMS W4560",
+    "name": "Introduction to Computer Applications in Health Care and Biomedicine",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: experience with computers and a passing familiarity with medicine and biology. Undergraduates in their senior or junior years may take this course only if they have adequate background in mathematics and receive the instructor's permission."
+},
+{
+    "number": "COMS W4170",
+    "name": "User Interface Design",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W3134, W3136, or W3137."
+},
+{
+    "number": "COMS W4701",
+    "name": "Artificial Intelligence",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W3134, W3136, or W3137."
+},
+{
+    "number": "COMS W4705",
+    "name": "Natural Language Processing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W3134, W3136, or W3137; or the instructor's permission."
+},
+{
+    "number": "COMS W4261",
+    "name": "Introduction to Cryptography",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: comfort with basic discrete math and probability. Recommended: COMS W3261 or CSOR W4231."
+},
+{
+    "number": "COMS W4706",
+    "name": "Spoken Language Processing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W3134, W3136, or W3137; or the instructor's permission."
+},
+{
+    "number": "COMS W4731",
+    "name": "Computer Vision",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: the fundamentals of calculus, linear algebra, and C programming. Students without any of these prerequisites are advised to contact the instructor prior to taking the course."
+},
+{
+    "number": "COMS W4737",
+    "name": "Biometrics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: a background at the sophomore level in computer science, engineering, or like discipline."
+},
+{
+    "number": "COMS W4733",
+    "name": "Computational Aspects of Robotics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W3134, W3136, or W3137."
+},
+{
+    "number": "COMS W4772",
+    "name": "Advanced Machine Learning",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W4771 or the instructor's permission; knowledge of linear algebra & introductory probability or statistics is required."
+},
+{
+    "number": "COMS W4771",
+    "name": "Machine Learning",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: any introductory course in linear algebra and any introductory course in statistics are both required. Highly recommended: COMS W4701 or knowledge of Artificial Intelligence."
+},
+{
+    "number": "COMS W4776",
+    "name": "Machine Learning for Data Science",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: SIEO W3600 or W4150 or equivalent."
+},
+{
+    "number": "COMS W4901",
+    "name": "Projects in Computer Science",
+    "credits": "1-3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: approval by a faculty member who agrees to supervise the work."
+},
+{
+    "number": "COMS W4995",
+    "name": "Special Topics in Computer Science, I",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: the instructor's permission."
+},
+{
+    "number": "COMS W4910",
+    "name": "Curricular Practical Training",
+    "credits": "1 point",
+    "coreq": "",
+    "prereq": "Prerequisites: obtained internship and approval from faculty advisor."
+},
+{
+    "number": "CSEE E6180",
+    "name": "Modeling and Performance",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W4118 and SIEO W4150."
+},
+{
+    "number": "CSEE E4868",
+    "name": "System-on-Chip Platforms",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W3157 and CSEE W3827"
+},
+{
+    "number": "COMS W4735",
+    "name": "Visual Interfaces to Computers",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W3134, W3136, or W3137."
+},
+{
+    "number": "CSEE E6832",
+    "name": "Topics in Logic Design Theory",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CSEE W3827 or any introduction to logic circuits."
+},
+{
+    "number": "CSEE E6847",
+    "name": "Distributed Embedded Systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Any COMS W411X, CSEE W48XX or ELEN E43XX course, or the instructor's permission."
+},
+{
+    "number": "CSEE E6831",
+    "name": "Sequential Logic Circuits",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CSEE W3827 or any introduction to logic circuits"
+},
+{
+    "number": "CSEE E6861",
+    "name": "Computer-Aided Design of Digital Systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: (i) one semester of advanced digital logic (CSEE 4823 or equivalent, or the instructor's permission); and (ii) a basic course in data structures and algorithms (COMS W3134, W3136, W3137, W3157, or equivalent, and familiarity with programming."
+},
+{
+    "number": "CSEE W3827",
+    "name": "Fundamentals of Computer Systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: an introductory programming course."
+},
+{
+    "number": "CSEE W4140",
+    "name": "Networking Laboratory",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CSEE 4119 or equivalent"
+},
+{
+    "number": "CSEE W4119",
+    "name": "Computer Networks",
+    "credits": "3 points",
+    "coreq": "Corequisites: SIEO W3600 or IEOR E3658, or equivalent.",
+    "prereq": ""
+},
+{
+    "number": "CSEE W4823",
+    "name": "Advanced Logic Design",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CSEE W3827, or a half semester introduction to digital logic, or the equivalent."
+},
+{
+    "number": "CSEE W4840",
+    "name": "Embedded Systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CSEE W4823."
+},
+{
+    "number": "CSEE E6824",
+    "name": "Parallel Computer Architecture",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CSEE W4824."
+},
+{
+    "number": "CSEE W4824",
+    "name": "Computer Architecture",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CSEE W3827 or the equivalent."
+},
+{
+    "number": "CSOR W4246",
+    "name": "Algorithms for Data Science",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: basic knowledge in programming (e.g., at the level of COMS W1007), a basic grounding in calculus and linear algebra."
+},
+{
+    "number": "ECBM E4060",
+    "name": "Introduction to Genomic Information",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CSOR W4231",
+    "name": "Analysis of Algorithms I",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: COMS W3134, W3136, or W3137, and W3203."
+},
+{
+    "number": "EECS E4340",
+    "name": "Computer Hardware Design",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ELEN E3331, plus ELEN E3910 or CSEE W3827."
+},
+{
+    "number": "ENGI E1006",
+    "name": "Introduction to Computing for Engineers and Applied Scientists",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CIEE E3260",
+    "name": "Engineering for developing communities",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CIEE E4163",
+    "name": "Sustainable Water Treatment and Reuse",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Introductory chemistry (with laboratory) and fluid mechanics."
+},
+{
+    "number": "CIEE E4242",
+    "name": "Geotechnical earthquake engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEN E3141 or the equivalent."
+},
+{
+    "number": "CIEN E3000",
+    "name": "The art of structural design",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CIEN E3004",
+    "name": "Urban infrastructure systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CIEN E3111",
+    "name": "Uncertainty and Risk in Civil Infrastructure Systems",
+    "credits": "3",
+    "coreq": "",
+    "prereq": "Prerequisites: Working knowledge of calculus."
+},
+{
+    "number": "5 po",
+    "name": "nts",
+    "credits": ".",
+    "coreq": "",
+    "prereq": "Prerequisites: Working knowledge of calculus."
+},
+{
+    "number": "CIEN E3121",
+    "name": "Structural analysis",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CIEN E3125",
+    "name": "Structural design",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME E3113."
+},
+{
+    "number": "CIEN E3126",
+    "name": "Computer-aided structural design",
+    "credits": "1 point",
+    "coreq": "Corequisites: CIEN E3125.",
+    "prereq": ""
+},
+{
+    "number": "CIEN E3127",
+    "name": "Structural design projects",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEN E3125 and E3126 or instructor's permission"
+},
+{
+    "number": "CIEN E3129",
+    "name": "Project management for construction",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Senior standing in Civil Engineering or instructor's permission."
+},
+{
+    "number": "CIEN E3128",
+    "name": "Design projects",
+    "credits": "4 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEN E3125 and CIEN E3126."
+},
+{
+    "number": "CIEN E3303",
+    "name": "Independent Studies in Civil Engineering for Juniors",
+    "credits": "1-3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CIEN E3141",
+    "name": "Soil mechanics",
+    "credits": "4 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME E3113."
+},
+{
+    "number": "CIEN E3304",
+    "name": "Independent Studies in Civil Engineering for Seniors",
+    "credits": "1-3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CIEN E4021",
+    "name": "Elastic and plastic analysis of structures",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEN E3121 or the equivalent."
+},
+{
+    "number": "CIEN E4100",
+    "name": "Earthquake and wind engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME E3106 or the equivalent."
+},
+{
+    "number": "CIEN E4010",
+    "name": "Transportation engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CIEN E4022",
+    "name": "Bridge design and management",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEN E3125 or the equivalent."
+},
+{
+    "number": "CIEN E4129",
+    "name": "Managing engineering and construction processes",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CIEN E4128",
+    "name": "Civil engineering management",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CIEN E4130",
+    "name": "Design of construction systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CIEN E4131",
+    "name": "Principles of construction techniques",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEN E4129 or equivalent."
+},
+{
+    "number": "CIEN E4132",
+    "name": "Prevention and resolution of construction disputes",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEN E 4129 or equivalent."
+},
+{
+    "number": "CIEN E4134",
+    "name": "Construction industry law",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CIEN E4133",
+    "name": "Capital facility planning and financing",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CIEN E4111",
+    "name": "Uncertainty and risk in infrastructure systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Working knowledge of calculus."
+},
+{
+    "number": "CIEN E4137",
+    "name": "Managing Civil Infrastructure Systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E4003, CIEN E4133, or equivalent."
+},
+{
+    "number": "CIEN E4136",
+    "name": "Global entrepreneurship in civil engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CIEN E4135",
+    "name": "Strategic management global design and construction",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CIEN E4139",
+    "name": "The Theory and Practice of Virtual Design and Construction",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEN E4129 or Instructorâ€™s Permission."
+},
+{
+    "number": "CIEN E4140",
+    "name": "Environmental, Health, and Safety Concepts in Construction Processes",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Graduate student standing in Civil Engineering and Engineering Mechanics required; preference given to students in Construction Management."
+},
+{
+    "number": "CIEN E4212",
+    "name": "Structural assessment and failure",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME E3113 and CIEN E3121."
+},
+{
+    "number": "CIEN E4210",
+    "name": "Forensic Structural Engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Working knowledge of structural analysis and design; graduate student standing or instructor's permission."
+},
+{
+    "number": "CIEN E4226",
+    "name": "Advanced design of steel structures",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEN E3125 or the equivalent."
+},
+{
+    "number": "CIEN E4138",
+    "name": "Real-Estate Finance for Construction Management",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E2261, CIEN E3129, or instructor's permission."
+},
+{
+    "number": "CIEN E4233",
+    "name": "Design of large scale bridges",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEN E3121 or the equivalent, and CIEN E3127 or the equivalent."
+},
+{
+    "number": "CIEN E4232",
+    "name": "Advanced design of concrete structures",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEN E3125 or the equivalent."
+},
+{
+    "number": "CIEN E4234",
+    "name": "Design of large-scale building structures",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEN E3121 and CIEN E3127."
+},
+{
+    "number": "CIEN E4236",
+    "name": "Design of prestressed concrete structures",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEN E4232 or instructor's permission."
+},
+{
+    "number": "CIEN E4235",
+    "name": "Multi-hazard design of structures",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEN E3125 or CIEN E4232, or instructor's permission."
+},
+{
+    "number": "CIEN E4213",
+    "name": "Elastic and inelastic buckling of structures",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CIEN E4241",
+    "name": "Geotechnical engineering fundamentals",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEN E3141 or the instructor's permission."
+},
+{
+    "number": "CIEN E4243",
+    "name": "Foundation engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEN E3141 or the equivalent."
+},
+{
+    "number": "CIEN E4244",
+    "name": "Geosynthetics and waste containment",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEN E4241 or the equivalent."
+},
+{
+    "number": "CIEN E4242",
+    "name": "Geotechnical earthquake engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEN E3141 or the equivalent"
+},
+{
+    "number": "CIEN E4246",
+    "name": "Earth retaining structures",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEN E3141."
+},
+{
+    "number": "CIEN E4247",
+    "name": "Design of Large-Scale Deep Foundation Systems",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEN E3141."
+},
+{
+    "number": "CIEN E4250",
+    "name": "Waste containment design and practice",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME E3161 and CIEN E3141, or the equivalents."
+},
+{
+    "number": "CIEN E4260",
+    "name": "Urban ecology studio",
+    "credits": "4 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Senior undergraduate or graduate student standing and the instructor's permission."
+},
+{
+    "number": "CIEN E4245",
+    "name": "Tunnel design and construction",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CIEN E4253",
+    "name": "Finite elements in geotechnical engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEN E3141 and ENME E4332."
+},
+{
+    "number": "CIEN E6131",
+    "name": "Quantitative infrastructure risk management",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: IEOR E4003, CIEN E4133 or the equivalent."
+},
+{
+    "number": "CIEN E6132",
+    "name": "Advanced systems and technologies for global project collaboration",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEN E4129 or the equivalent."
+},
+{
+    "number": "CIEN E4999",
+    "name": "Fieldwork",
+    "credits": "1 point",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CIEN E6133",
+    "name": "Advanced construction and infrastructure risk mangement using real options",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEN E6131"
+},
+{
+    "number": "CIEN E6246",
+    "name": "Advanced soil mechanics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEN E3141."
+},
+{
+    "number": "CIEN E6232",
+    "name": "Advanced topics in concrete engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEN E3125 or the equivalent."
+},
+{
+    "number": "CIEN E9120",
+    "name": "Independent studies in flight sciences",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: the instructor's permission."
+},
+{
+    "number": "CIEN E6248",
+    "name": "Experimental soil mechanics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEN E3141."
+},
+{
+    "number": "CIEN E9165",
+    "name": "Independent studies in environmental engineering",
+    "credits": "4 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEN E4252 or the equivalent."
+},
+{
+    "number": "CIEN E9130",
+    "name": "Independent studies in construction",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Permission by Department Chairman and Instructor."
+},
+{
+    "number": "CIEN E9800",
+    "name": "Doctoral research instruction",
+    "credits": "3-12 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CIEN E9101",
+    "name": "Civil engineering research",
+    "credits": "1-4 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ENME E3105",
+    "name": "Mechanics",
+    "credits": "4 points",
+    "coreq": "",
+    "prereq": "Prerequisites: PHYS C1401 and MATH V1101-V1102 and V1201."
+},
+{
+    "number": "ENME E3106",
+    "name": "Dynamics and vibrations",
+    "credits": "3 points",
+    "coreq": "Corequisites: ENME E3105.",
+    "prereq": "Prerequisites: MATH V1201."
+},
+{
+    "number": "CIEN E9900",
+    "name": "Doctoral dissertation",
+    "credits": "0 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "CIEN E9201",
+    "name": "Civil engineering reports",
+    "credits": "1-4 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ENME E3114",
+    "name": "Experimental mechanics of materials",
+    "credits": "4 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME E3113."
+},
+{
+    "number": "ENME E3161",
+    "name": "Fluid mechanics",
+    "credits": "4 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME E3105 and ordinary differential equations."
+},
+{
+    "number": "ENME E3113",
+    "name": "Mechanics of solids",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME E3105 or equivalent (can be taken as corequisite)."
+},
+{
+    "number": "ENME E3332",
+    "name": "A First Course in Finite Elements",
+    "credits": "3 points",
+    "coreq": "Corequisites: (Recommended): differential equations",
+    "prereq": "Prerequisites: Senior standing or by instructor permission\n\\n(Students taking ENME E3332 cannot take ENME E4332)"
+},
+{
+    "number": "ENME E4114",
+    "name": "Mechanics of fracture and fatigue",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Undergraduate mechanics of solids course."
+},
+{
+    "number": "ENME E4202",
+    "name": "Advanced mechanics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME E3105 or the equivalent."
+},
+{
+    "number": "ENME E4115",
+    "name": "Micromechanics of Composite Materials",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME E4113 or instructor's approval."
+},
+{
+    "number": "ENME E4214",
+    "name": "Theory of plates and shells",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME E3113."
+},
+{
+    "number": "ENME E4332",
+    "name": "Finite element analysis, I",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Mechanics of solids, structural analysis, elementary computer programming (MATLAB) is recommended, linear algebra and ordinary differential equations."
+},
+{
+    "number": "ENME E4363",
+    "name": "Multiscale Computational Science and Engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME E4332, elementary computer programming, linear algebra."
+},
+{
+    "number": "ENME E6215",
+    "name": "Principles and Applications of Sensors for Structural Health Monitoring",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME E4215"
+},
+{
+    "number": "ENME E4113",
+    "name": "Advanced mechanics of solids",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ENME E6220",
+    "name": "Random processes in mechanics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEN E4111 and ENME E4215 or equivalent."
+},
+{
+    "number": "ENME E6216",
+    "name": "Structural Health Monitoring",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME E4215 and ENME E4332"
+},
+{
+    "number": "ENME E6218",
+    "name": "Uncertainty Quantification for Engineering Applications",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: CIEN E4111 or equivalent; elementary computer programming (MATLAB) is recommended; ordinary and partial differential equations."
+},
+{
+    "number": "ENME E4215",
+    "name": "Theory of vibrations",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ENME E6320",
+    "name": "Computational Poromechanics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME E3332 or instructor's permission"
+},
+{
+    "number": "ENME E6364",
+    "name": "Nonlinear Computational Mechanics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME E4332 or equivalent, elementary computer programming, linear algebra."
+},
+{
+    "number": "ENME E8310",
+    "name": "Advance Continuum Mechanics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MECE E6422 and E6423."
+},
+{
+    "number": "ENME E6333",
+    "name": "Finite element analysis II",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME E4332"
+},
+{
+    "number": "ENME E8323",
+    "name": "Nonlinear vibrations",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME E4215 or the equivalent."
+},
+{
+    "number": "ENME E8320",
+    "name": "Viscoelasticity and plasticity",
+    "credits": "4 points",
+    "coreq": "",
+    "prereq": "Prerequisites: ENME E6315 or the equivalent, or the instructor's permission."
+},
+{
+    "number": "GRAP E1115",
+    "name": "Engineering graphics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "ENME E6315",
+    "name": "Theory of elasticity",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
+{
+    "number": "GRAP E2005",
+    "name": "Computer-aided engineering graphics",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: MATH V1105"
+},
+{
+    "number": "GRAP E4005",
+    "name": "Computer graphics in engineering",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": "Prerequisites: Any programming language and linear algebra."
+},
+{
+    "number": "GRAP E3115",
+    "name": "Advanced computer modeling and animation",
+    "credits": "3 points",
+    "coreq": "",
+    "prereq": ""
+},
